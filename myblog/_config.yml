@@ -1,0 +1,9 @@
+name: The Follow Through
+description: The blog for the nonprofit
+
+paginate: 10
+
+
+permalink: /:none
+
+

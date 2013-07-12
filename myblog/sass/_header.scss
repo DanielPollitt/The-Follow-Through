@@ -1,0 +1,7 @@
+.title {
+	@include breakpoint(smartphone) { 
+		width: 19em;
+	
+	}
+
+}

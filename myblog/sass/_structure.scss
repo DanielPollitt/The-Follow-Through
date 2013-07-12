@@ -1,0 +1,15 @@
+.header {
+	 @include breakpoint(smartphone) { 
+	 	width: 20em; 
+
+	 }
+
+}
+
+.wrap {
+	@include breakpoint(smartphone) { 
+	 	width: 20em; 
+
+	 }
+
+}
