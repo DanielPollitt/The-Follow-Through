@@ -1,4 +1,4 @@
 thefollowthrough
 ================
 
-Repository for The Follow Through, a sports nonprofit
+Official Blog for The Follow Through
