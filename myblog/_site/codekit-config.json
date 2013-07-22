@@ -13,6 +13,15 @@
       "initialSize" : 71291,
       "fileType" : 8192
     },
+    "\/_site\/core\/introducing-the-follow-through\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/core\/introducing-the-follow-through\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/_includes\/main.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -32,15 +41,6 @@
       "outputAbbreviatedPath" : "\/Images\/grey_wash_wall_@2X.png",
       "initialSize" : 149273,
       "fileType" : 8192
-    },
-    "\/_site\/core\/introducing-the-follow-through\/index.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/core\/introducing-the-follow-through\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/sass\/_header.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -175,6 +175,24 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/_includes\/header.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_includes\/header.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/_site\/css\/main.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/css\/main.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
     "\/sass\/_footer.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -187,15 +205,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/_site\/css\/main.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/css\/main.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
     "\/config.rb" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -204,15 +213,6 @@
       "inputAbbreviatedPath" : "\/config.rb",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 32768
-    },
-    "\/_includes\/header.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_includes\/header.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/Images\/green-fibers_@2X.png" : {
       "ignoreWasSetByUser" : 0,
@@ -223,6 +223,90 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/Images\/green-fibers_@2X.png",
       "initialSize" : 81132,
+      "fileType" : 8192
+    },
+    "\/_site\/Images\/grey_wash_wall.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/Images\/grey_wash_wall.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/Images\/grey_wash_wall.png",
+      "initialSize" : 47433,
+      "fileType" : 8192
+    },
+    "\/_layouts\/post.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_layouts\/post.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/_site\/Images\/smooth_wall.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/Images\/smooth_wall.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/Images\/smooth_wall.png",
+      "initialSize" : 76224,
+      "fileType" : 8192
+    },
+    "\/_site\/Images\/green-fibers_@2X.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/Images\/green-fibers_@2X.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/Images\/green-fibers_@2X.png",
+      "initialSize" : 81132,
+      "fileType" : 8192
+    },
+    "\/Images\/binding_dark_@2X.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Images\/binding_dark_@2X.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Images\/binding_dark_@2X.png",
+      "initialSize" : 27503,
+      "fileType" : 8192
+    },
+    "\/_site\/Images\/binding_dark.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/Images\/binding_dark.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/Images\/binding_dark.png",
+      "initialSize" : 19846,
+      "fileType" : 8192
+    },
+    "\/_includes\/nav.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_includes\/nav.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/Images\/binding_dark.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Images\/binding_dark.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Images\/binding_dark.png",
+      "initialSize" : 19846,
       "fileType" : 8192
     },
     "\/sass\/main.scss" : {
@@ -237,88 +321,15 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/_layouts\/post.html" : {
+    "\/Images\/wavegrid_@2X.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_layouts\/post.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/_site\/Images\/green-fibers_@2X.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/Images\/green-fibers_@2X.png",
+      "inputAbbreviatedPath" : "\/Images\/wavegrid_@2X.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/Images\/green-fibers_@2X.png",
-      "initialSize" : 81132,
-      "fileType" : 8192
-    },
-    "\/_site\/Images\/smooth_wall.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/Images\/smooth_wall.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/Images\/smooth_wall.png",
-      "initialSize" : 76224,
-      "fileType" : 8192
-    },
-    "\/_site\/Images\/binding_dark.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/Images\/binding_dark.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/Images\/binding_dark.png",
-      "initialSize" : 19846,
-      "fileType" : 8192
-    },
-    "\/Images\/binding_dark.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Images\/binding_dark.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/Images\/binding_dark.png",
-      "initialSize" : 19846,
-      "fileType" : 8192
-    },
-    "\/_includes\/nav.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_includes\/nav.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/Images\/binding_dark_@2X.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Images\/binding_dark_@2X.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/Images\/binding_dark_@2X.png",
-      "initialSize" : 27503,
-      "fileType" : 8192
-    },
-    "\/_site\/Images\/grey_wash_wall.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/Images\/grey_wash_wall.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/Images\/grey_wash_wall.png",
-      "initialSize" : 47433,
+      "outputAbbreviatedPath" : "\/Images\/wavegrid_@2X.png",
+      "initialSize" : 1749,
       "fileType" : 8192
     },
     "\/_site\/Images\/white_wall_hash.png" : {
@@ -330,17 +341,6 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/_site\/Images\/white_wall_hash.png",
       "initialSize" : 63953,
-      "fileType" : 8192
-    },
-    "\/Images\/wavegrid_@2X.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Images\/wavegrid_@2X.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/Images\/wavegrid_@2X.png",
-      "initialSize" : 1749,
       "fileType" : 8192
     },
     "\/Images\/white_wall_hash_@2X.png" : {
@@ -397,15 +397,6 @@
       "initialSize" : 76224,
       "fileType" : 8192
     },
-    "\/index.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/sass\/_content.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -417,6 +408,15 @@
       "outputAbbreviatedPath" : "\/css\/_content.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/_site\/Images\/smooth_wall_@2X.png" : {
       "ignoreWasSetByUser" : 0,
@@ -440,26 +440,15 @@
       "initialSize" : 1592,
       "fileType" : 8192
     },
-    "\/_site\/Images\/wavegrid_@2X.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/Images\/wavegrid_@2X.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/Images\/wavegrid_@2X.png",
-      "initialSize" : 1749,
-      "fileType" : 8192
-    },
-    "\/sass\/_mixins.scss" : {
+    "\/sass\/_nav.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/sass\/_mixins.scss",
+      "inputAbbreviatedPath" : "\/sass\/_nav.scss",
       "outputStyle" : 0,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/_mixins.css",
+      "outputAbbreviatedPath" : "\/css\/_nav.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -474,15 +463,15 @@
       "initialSize" : 63953,
       "fileType" : 8192
     },
-    "\/sass\/_nav.scss" : {
+    "\/sass\/_mixins.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/sass\/_nav.scss",
+      "inputAbbreviatedPath" : "\/sass\/_mixins.scss",
       "outputStyle" : 0,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/_nav.css",
+      "outputAbbreviatedPath" : "\/css\/_mixins.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -494,6 +483,17 @@
       "inputAbbreviatedPath" : "\/_site\/index.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/_site\/Images\/wavegrid_@2X.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/Images\/wavegrid_@2X.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/Images\/wavegrid_@2X.png",
+      "initialSize" : 1749,
+      "fileType" : 8192
     },
     "\/_layouts\/default.html" : {
       "ignoreWasSetByUser" : 0,
