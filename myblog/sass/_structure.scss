@@ -40,7 +40,7 @@
 
 .entire-page {
 	min-height: 100%;
-
+	position: relative;
 	@include breakpoint(smartphone) { 
 	 	width: 20em; 
 

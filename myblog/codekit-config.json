@@ -13,17 +13,6 @@
       "initialSize" : 1592,
       "fileType" : 8192
     },
-    "\/Images\/wavegrid_@2X.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Images\/wavegrid_@2X.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/Images\/wavegrid_@2X.png",
-      "initialSize" : 1749,
-      "fileType" : 8192
-    },
     "\/Images\/smooth_wall_@2X.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -33,6 +22,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/Images\/smooth_wall_@2X.png",
       "initialSize" : 120065,
+      "fileType" : 8192
+    },
+    "\/Images\/wavegrid_@2X.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Images\/wavegrid_@2X.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Images\/wavegrid_@2X.png",
+      "initialSize" : 1749,
       "fileType" : 8192
     },
     "\/sass\/_html5reset.scss" : {
@@ -109,17 +109,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/Images\/binding_dark_@2X.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Images\/binding_dark_@2X.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/Images\/binding_dark_@2X.png",
-      "initialSize" : 27503,
-      "fileType" : 8192
-    },
     "\/sass\/main.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -131,6 +120,17 @@
       "outputAbbreviatedPath" : "\/css\/main.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/Images\/binding_dark_@2X.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Images\/binding_dark_@2X.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Images\/binding_dark_@2X.png",
+      "initialSize" : 27503,
+      "fileType" : 8192
     },
     "\/index.html" : {
       "ignoreWasSetByUser" : 0,
@@ -230,17 +230,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/Images\/smooth_wall.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Images\/smooth_wall.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/Images\/smooth_wall.png",
-      "initialSize" : 76224,
-      "fileType" : 8192
-    },
     "\/Images\/white_wall_hash.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -250,6 +239,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/Images\/white_wall_hash.png",
       "initialSize" : 63953,
+      "fileType" : 8192
+    },
+    "\/Images\/smooth_wall.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Images\/smooth_wall.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Images\/smooth_wall.png",
+      "initialSize" : 76224,
       "fileType" : 8192
     },
     "\/_site\/Images\/green-fibers_@2X.png" : {
@@ -338,15 +338,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/_site\/css\/main.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/css\/main.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
     "\/_site\/sass\/_structure.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -358,6 +349,15 @@
       "outputAbbreviatedPath" : "\/css\/_structure.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/_site\/css\/main.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/css\/main.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/_site\/Images\/smooth_wall_@2X.png" : {
       "ignoreWasSetByUser" : 0,
@@ -636,7 +636,7 @@
     "hamlOutputFormat" : 2,
     "stylusAutoOutputPathReplace1" : "stylus",
     "lessStrictImports" : 0,
-    "sassAutoOutputPathStyle" : 3,
+    "sassAutoOutputPathStyle" : 0,
     "stylusAutoOutputPathReplace2" : "css",
     "lessAutoOutputPathStyle" : 2,
     "lessIECompatibility" : 1,
