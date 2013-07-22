@@ -220,7 +220,6 @@ h5 {
 /* line 41, ../sass/_structure.scss */
 .entire-page {
   min-height: 100%;
-  position: relative;
   /* 320px */ }
   @media (max-width: 20em) {
     /* line 41, ../sass/_structure.scss */
