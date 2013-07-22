@@ -107,10 +107,9 @@ input, select {
 /* line 9, ../sass/_basics.scss */
 html, body {
   background: url(http://localhost:4000/images/white_wall_hash_@2X.png);
-  height: 100%;
-  overflow: hidden; }
+  height: 100%; }
 
-/* line 16, ../sass/_basics.scss */
+/* line 15, ../sass/_basics.scss */
 ul {
   list-style-type: none; }
 
