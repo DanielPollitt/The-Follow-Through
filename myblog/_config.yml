@@ -1,6 +1,6 @@
 name: The Follow Through
 description: The blog for the nonprofit
-url: "http://localhost:4000"
+url: url: http://danielpollitt.github.io/The-Follow-Through/myblog
 paginate: 10
 permalink: /:categories/:title
 
