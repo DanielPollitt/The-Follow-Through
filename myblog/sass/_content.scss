@@ -1,0 +1,28 @@
+.main {
+	@include breakpoint(smartphone) { 
+	 	display: block;
+
+	 }
+}
+
+.content-section-title {
+	@include breakpoint(smartphone) { 
+	 	@include adjust-font-size-to(25.888px);
+	 	text-align: center;
+
+	 }
+}
+
+.home {
+	@include breakpoint(smartphone) { 
+		background-color: white;
+		padding: 1em;
+	 	width: 18em; 
+
+	 }
+	 li {
+	 		@include leader (.5);
+	 	@include trailer (.5);
+	 }
+
+}

@@ -1,9 +1,10 @@
 name: The Follow Through
 description: The blog for the nonprofit
-
+url: "http://localhost:4000"
 paginate: 10
+permalink: /:categories/:title
 
 
-permalink: /:none
+
 
 
