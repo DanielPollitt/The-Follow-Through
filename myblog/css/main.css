@@ -120,10 +120,10 @@ ul {
 body {
   font-family: "open sans", sans-serif;
   color: #444444; }
-  /* line 61, ../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/typography/_vertical_rhythm.scss */
+  /* line 61, ../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/typography/_vertical_rhythm.scss */
   body * html {
     font-size: 100%; }
-  /* line 64, ../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/typography/_vertical_rhythm.scss */
+  /* line 64, ../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/typography/_vertical_rhythm.scss */
   body html {
     font-size: 16px;
     line-height: 1.5em; }
@@ -287,7 +287,7 @@ h5 {
 
 /* line 1, ../sass/_footer.scss */
 .footer {
-  background: url(http://localhost:4000/images/random_grey_variations_@2X.png);
+  background: url(http://localhost:4000/images/green-fibers_@2X.png);
   /* 320px */ }
   /* line 3, ../sass/_footer.scss */
   .footer p {
