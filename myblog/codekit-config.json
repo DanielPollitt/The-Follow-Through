@@ -2,14 +2,16 @@
   "CodeKitInfo" : "This is a CodeKit project configuration file. It is designed to sync project settings across multiple machines. Modifying the contents of this file can be a poor life decision if you don't know what you're doing. This file is not useful unless accompanied by the project that created it in CodeKit. For more information, see: http:\/\/incident57.com\/codekit",
   "creatorBuild" : "8317",
   "files" : {
-    "\/_includes\/footer.html" : {
+    "\/_site\/Images\/white_wall_hash_@2X.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_includes\/footer.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/_site\/Images\/white_wall_hash_@2X.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/Images\/white_wall_hash_@2X.png",
+      "initialSize" : 71291,
+      "fileType" : 8192
     },
     "\/_site\/core\/introducing-the-follow-through\/index.html" : {
       "ignoreWasSetByUser" : 0,
@@ -17,6 +19,15 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/_site\/core\/introducing-the-follow-through\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/_includes\/main.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_includes\/main.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -30,15 +41,6 @@
       "outputAbbreviatedPath" : "\/Images\/grey_wash_wall_@2X.png",
       "initialSize" : 149273,
       "fileType" : 8192
-    },
-    "\/_includes\/main.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_includes\/main.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/sass\/_header.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -194,14 +196,14 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/_site\/css\/main.css" : {
+    "\/config.rb" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/css\/main.css",
+      "inputAbbreviatedPath" : "\/config.rb",
       "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
+      "fileType" : 32768
     },
     "\/sass\/main.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -237,24 +239,24 @@
       "initialSize" : 47433,
       "fileType" : 8192
     },
-    "\/config.rb" : {
+    "\/_layouts\/post.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/config.rb",
+      "inputAbbreviatedPath" : "\/_layouts\/post.html",
       "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 32768
+      "fileType" : 2048
     },
-    "\/_site\/Images\/green-fibers_@2X.png" : {
+    "\/_site\/Images\/smooth_wall.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/Images\/green-fibers_@2X.png",
+      "inputAbbreviatedPath" : "\/_site\/Images\/smooth_wall.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/Images\/green-fibers_@2X.png",
-      "initialSize" : 81132,
+      "outputAbbreviatedPath" : "\/_site\/Images\/smooth_wall.png",
+      "initialSize" : 76224,
       "fileType" : 8192
     },
     "\/Images\/binding_dark.png" : {
@@ -279,26 +281,15 @@
       "initialSize" : 27503,
       "fileType" : 8192
     },
-    "\/_site\/Images\/binding_dark.png" : {
+    "\/_site\/Images\/green-fibers_@2X.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/Images\/binding_dark.png",
+      "inputAbbreviatedPath" : "\/_site\/Images\/green-fibers_@2X.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/Images\/binding_dark.png",
-      "initialSize" : 19846,
-      "fileType" : 8192
-    },
-    "\/_site\/Images\/smooth_wall.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/Images\/smooth_wall.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/Images\/smooth_wall.png",
-      "initialSize" : 76224,
+      "outputAbbreviatedPath" : "\/_site\/Images\/green-fibers_@2X.png",
+      "initialSize" : 81132,
       "fileType" : 8192
     },
     "\/_includes\/nav.html" : {
@@ -310,25 +301,25 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/_layouts\/post.html" : {
+    "\/_site\/Images\/binding_dark.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_layouts\/post.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/_site\/Images\/white_wall_hash.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/Images\/white_wall_hash.png",
+      "inputAbbreviatedPath" : "\/_site\/Images\/binding_dark.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/Images\/white_wall_hash.png",
-      "initialSize" : 63953,
+      "outputAbbreviatedPath" : "\/_site\/Images\/binding_dark.png",
+      "initialSize" : 19846,
       "fileType" : 8192
+    },
+    "\/_site\/css\/main.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/css\/main.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/Images\/wavegrid_@2X.png" : {
       "ignoreWasSetByUser" : 0,
@@ -339,6 +330,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/Images\/wavegrid_@2X.png",
       "initialSize" : 1749,
+      "fileType" : 8192
+    },
+    "\/_site\/Images\/white_wall_hash.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/Images\/white_wall_hash.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/Images\/white_wall_hash.png",
+      "initialSize" : 63953,
       "fileType" : 8192
     },
     "\/Images\/white_wall_hash_@2X.png" : {
@@ -395,6 +397,15 @@
       "initialSize" : 76224,
       "fileType" : 8192
     },
+    "\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/sass\/_content.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -406,15 +417,6 @@
       "outputAbbreviatedPath" : "\/css\/_content.css",
       "fileType" : 4,
       "debugStyle" : 0
-    },
-    "\/index.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/_site\/Images\/smooth_wall_@2X.png" : {
       "ignoreWasSetByUser" : 0,
@@ -438,6 +440,39 @@
       "initialSize" : 1592,
       "fileType" : 8192
     },
+    "\/_site\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/sass\/_mixins.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/sass\/_mixins.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/css\/_mixins.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/sass\/_nav.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/sass\/_nav.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/css\/_nav.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
     "\/_site\/Images\/wavegrid_@2X.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -460,39 +495,6 @@
       "initialSize" : 63953,
       "fileType" : 8192
     },
-    "\/sass\/_nav.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/sass\/_nav.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/_nav.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/sass\/_mixins.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/sass\/_mixins.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/_mixins.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/_site\/index.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/_layouts\/default.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -513,16 +515,14 @@
       "initialSize" : 120065,
       "fileType" : 8192
     },
-    "\/_site\/Images\/white_wall_hash_@2X.png" : {
+    "\/_includes\/footer.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/Images\/white_wall_hash_@2X.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/Images\/white_wall_hash_@2X.png",
-      "initialSize" : 71291,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/_includes\/footer.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     }
   },
   "manualImportLinks" : [
