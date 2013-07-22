@@ -180,7 +180,7 @@ h5 {
 
 /* line 1, ../sass/_structure.scss */
 .footer {
-  position: absolute;
+  position: relative;
   bottom: 0;
   right: 0;
   left: 0;
