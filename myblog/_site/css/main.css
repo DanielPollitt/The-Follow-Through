@@ -1,0 +1,30 @@
+/* apply a natural box layout model to all elements */
+/* line 2, ../sass/_basics.scss */
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box; }
+
+/* line 1, ../sass/_structure.scss */
+.header {
+  /* 320px */ }
+  @media (max-width: 20em) {
+    /* line 1, ../sass/_structure.scss */
+    .header {
+      width: 20em; } }
+
+/* line 9, ../sass/_structure.scss */
+.wrap {
+  /* 320px */ }
+  @media (max-width: 20em) {
+    /* line 9, ../sass/_structure.scss */
+    .wrap {
+      width: 20em; } }
+
+/* line 1, ../sass/_header.scss */
+.title {
+  /* 320px */ }
+  @media (max-width: 20em) {
+    /* line 1, ../sass/_header.scss */
+    .title {
+      width: 19em; } }
