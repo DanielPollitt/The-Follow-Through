@@ -251,7 +251,7 @@ h5 {
 
 /* line 1, ../sass/_nav.scss */
 .nav-title {
-  font-family: "open sans", sans-serif;
+  font-family: "open sans", sans-serif !important;
   text-align: center;
   text-decoration: underline; }
 
