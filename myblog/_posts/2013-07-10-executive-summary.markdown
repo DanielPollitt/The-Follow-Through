@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: default
 title:  "The Follow Through: An Executive Summary"
 date:   2013-07-10
 categories: core
 ---
 
-#The Follow Through: Enriching Athletes Lives Through Awareness#
+####The Follow Through: Enriching Athletes Lives Through Awareness####
 
 Introduction
 

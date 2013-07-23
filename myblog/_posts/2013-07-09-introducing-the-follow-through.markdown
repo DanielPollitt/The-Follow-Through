@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Introducing The Follow Through"
 date:   2013-07-09 18:08:18
 categories: core

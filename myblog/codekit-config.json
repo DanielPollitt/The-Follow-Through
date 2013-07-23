@@ -230,17 +230,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/Images\/white_wall_hash.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/Images\/white_wall_hash.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/Images\/white_wall_hash.png",
-      "initialSize" : 63953,
-      "fileType" : 8192
-    },
     "\/Images\/smooth_wall.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -250,6 +239,17 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/Images\/smooth_wall.png",
       "initialSize" : 76224,
+      "fileType" : 8192
+    },
+    "\/Images\/white_wall_hash.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/Images\/white_wall_hash.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/Images\/white_wall_hash.png",
+      "initialSize" : 63953,
       "fileType" : 8192
     },
     "\/_site\/Images\/green-fibers_@2X.png" : {
@@ -326,18 +326,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/_site\/sass\/_footer.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/sass\/_footer.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/_footer.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
     "\/_site\/sass\/_structure.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -358,6 +346,18 @@
       "inputAbbreviatedPath" : "\/_site\/css\/main.css",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
+    },
+    "\/_site\/sass\/_footer.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/sass\/_footer.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/css\/_footer.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/_site\/Images\/smooth_wall_@2X.png" : {
       "ignoreWasSetByUser" : 0,
