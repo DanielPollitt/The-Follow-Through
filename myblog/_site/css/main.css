@@ -251,6 +251,7 @@ h5 {
 
 /* line 1, ../sass/_nav.scss */
 .nav-title {
+  margin-bottom: 0 !important;
   text-align: center;
   text-decoration: underline; }
 
