@@ -5,7 +5,7 @@ date:   2013-07-10
 categories: core
 ---
 
-####The Follow Through: Enriching Athletes Lives Through Awareness####
+### The Follow Through: Enriching Athletes Lives Through Awareness ###
 
 Introduction
 
@@ -65,6 +65,3 @@ Calculating organizational beneficiaries—those who benefit from the services p
 
 Moving Forward with The Follow Through  
 For The Follow Through, this strategy for start-up is not just an academic exercise or a pipe dream. I sincerely believe that there is a need for the type of awareness and services that could be provided by an organization like the one described. Sports have given and will continue to create meaningful value in our lives. In order to ensure it stays this way for future generations, the debate over mental health and lifestyle guidance in athletes lives needs to be corrected to a more healthy position. I imagine a world in which an athlete with internal and external pressures can learn life skills and deal with adversity in more constructive ways than they currently do. 
-
-
-

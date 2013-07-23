@@ -5,7 +5,7 @@ date:   2013-07-09 18:08:18
 categories: core
 ---
 
-##### The Road so Far #####
+#### The Road so Far ####
 
 This has been a long and arduous process for me with several more steps ahead.
 
@@ -19,7 +19,3 @@ One day, this blog will be used as the official, online home of The Follow Throu
 
 Sincerely,  
 Daniel Pollitt
-
-
-
-
