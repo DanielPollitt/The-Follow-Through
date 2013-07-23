@@ -176,7 +176,8 @@ h5 {
   color: #222222;
   font-family: "open sans", sans-serif;
   font-size: 1.125em;
-  line-height: 1.33333em; }
+  line-height: 1.33333em;
+  margin-bottom: 1.5em; }
 
 /* line 1, ../sass/_structure.scss */
 .footer {
@@ -251,7 +252,6 @@ h5 {
 
 /* line 1, ../sass/_nav.scss */
 .nav-title {
-  font-family: "open sans", sans-serif !important;
   text-align: center;
   text-decoration: underline; }
 
