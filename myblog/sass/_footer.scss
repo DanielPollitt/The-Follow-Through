@@ -22,7 +22,7 @@
 .entire-page {
   min-height: 100%;
   /* equal to footer height */
-  margin-bottom: -8em; 
+  margin-bottom: 8.875em; 
 }
 .wrapper:after {
   content: "";
@@ -30,5 +30,10 @@
 }
 .footer, .wrapper:after {
   /* .push must be the same height as footer */
-  height: 8em; 
+  height: 8.875em; 
+}
+
+.post {
+	min-height: 100%;
+	position: relative;
 }
