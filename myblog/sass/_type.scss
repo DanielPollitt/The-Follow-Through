@@ -66,6 +66,5 @@ h5 {
 	color: $title-color; 
 	font-family: $default-font;
 	@include adjust-font-size-to(18px);
-	@include trailer (); 
 
 }
