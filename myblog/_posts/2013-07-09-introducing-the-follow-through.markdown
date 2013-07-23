@@ -15,7 +15,7 @@ Building the roadmap for launch took a little more time and effort but was undem
 
 The more difficult part lies in refining core strategy and messaging along with hitting the road (e.g. pavement, meetings, telephone, internet) and spreading it to potential champions.
 
-One day, this blog will be used as the offical, online home of The Follow Through, but until then I will document my journey towards launch so you can follow along with me.
+One day, this blog will be used as the official, online home of The Follow Through, but until then I will document my journey towards launch so you can follow along with me.
 
 Sincerely,  
 Daniel Pollitt
