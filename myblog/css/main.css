@@ -120,10 +120,10 @@ ul {
 body {
   font-family: "open sans", sans-serif;
   color: #444444; }
-  /* line 61, ../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/typography/_vertical_rhythm.scss */
+  /* line 61, ../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/typography/_vertical_rhythm.scss */
   body * html {
     font-size: 100%; }
-  /* line 64, ../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/typography/_vertical_rhythm.scss */
+  /* line 64, ../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/typography/_vertical_rhythm.scss */
   body html {
     font-size: 16px;
     line-height: 1.5em; }
@@ -174,7 +174,7 @@ h4 {
 /* line 65, ../sass/_type.scss */
 h5 {
   color: #222222;
-  font-family: "Bevan", cursive;
+  font-family: "open sans", sans-serif;
   font-size: 1.125em;
   line-height: 1.33333em; }
 
@@ -221,6 +221,7 @@ h5 {
 /* line 41, ../sass/_structure.scss */
 .entire-page {
   min-height: 100%;
+  position: relative;
   /* 320px */ }
   @media (max-width: 20em) {
     /* line 41, ../sass/_structure.scss */
