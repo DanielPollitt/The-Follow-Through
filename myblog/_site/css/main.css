@@ -304,3 +304,19 @@ h5 {
   /* line 17, ../sass/_footer.scss */
   .footer p {
     font-style: none; }
+
+/* line 22, ../sass/_footer.scss */
+.entire-site {
+  min-height: 100%;
+  /* equal to footer height */
+  margin-bottom: -142px; }
+
+/* line 27, ../sass/_footer.scss */
+.wrapper:after {
+  content: "";
+  display: block; }
+
+/* line 31, ../sass/_footer.scss */
+.footer, .wrapper:after {
+  /* .push must be the same height as footer */
+  height: 142px; }
