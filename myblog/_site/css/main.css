@@ -309,7 +309,7 @@ h5 {
 .entire-page {
   min-height: 100%;
   /* equal to footer height */
-  margin-bottom: -8em; }
+  margin-bottom: 8.875em; }
 
 /* line 27, ../sass/_footer.scss */
 .wrapper:after {
@@ -319,4 +319,9 @@ h5 {
 /* line 31, ../sass/_footer.scss */
 .footer, .wrapper:after {
   /* .push must be the same height as footer */
-  height: 8em; }
+  height: 8.875em; }
+
+/* line 36, ../sass/_footer.scss */
+.post {
+  min-height: 100%;
+  position: relative; }
