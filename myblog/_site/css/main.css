@@ -305,7 +305,18 @@ h5 {
   .footer p {
     font-style: none; }
 
-/* line 23, ../sass/_footer.scss */
-.post {
+/* line 22, ../sass/_footer.scss */
+.entire-page {
   min-height: 100%;
-  position: relative; }
+  /* equal to footer height */
+  margin-bottom: -8em; }
+
+/* line 27, ../sass/_footer.scss */
+.wrapper:after {
+  content: "";
+  display: block; }
+
+/* line 31, ../sass/_footer.scss */
+.footer, .wrapper:after {
+  /* .push must be the same height as footer */
+  height: 8em; }
