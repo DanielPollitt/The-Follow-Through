@@ -306,7 +306,7 @@ h5 {
     font-style: none; }
 
 /* line 22, ../sass/_footer.scss */
-.entire-site {
+.entire-page {
   min-height: 100%;
   /* equal to footer height */
   margin-bottom: -142px; }
