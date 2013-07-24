@@ -28,11 +28,6 @@ body {
 		font-family: $default-font;
 	}
 
-	p + p {
-		margin-top: 0;
-		text-indent: 2em;
-	}
-
 h1 {
 	color: $title-color; 
 	font-family: $title-font;
