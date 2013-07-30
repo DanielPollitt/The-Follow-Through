@@ -1,5 +1,3 @@
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,800,700,600);
-@import url(http://fonts.googleapis.com/css?family=Bevan);
 /**
  * html5doctor.com Reset Stylesheet v1.6.1 (http://html5doctor.com/html-5-reset-stylesheet/)
  * Richard Clark (http://richclarkdesign.com)
@@ -115,9 +113,9 @@ ul {
 
 /* light black */
 /* dark black */
-/* line 13, ../sass/_type.scss */
+/* line 11, ../sass/_type.scss */
 body {
-  font-family: "open sans", sans-serif;
+  font-family: "brandon-grotesque", "sans-serif";
   color: #444444; }
   /* line 61, ../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/typography/_vertical_rhythm.scss */
   body * html {
@@ -126,49 +124,49 @@ body {
   body html {
     font-size: 16px;
     line-height: 1.5em; }
-  /* line 18, ../sass/_type.scss */
+  /* line 16, ../sass/_type.scss */
   body a {
     text-decoration: none;
     color: inherit; }
 
-/* line 26, ../sass/_type.scss */
+/* line 24, ../sass/_type.scss */
 p {
   color: #444444;
-  font-family: "open sans", sans-serif; }
+  font-family: "brandon-grotesque", "sans-serif"; }
 
-/* line 31, ../sass/_type.scss */
+/* line 29, ../sass/_type.scss */
 h1 {
   color: #222222;
-  font-family: "Bevan", cursive;
+  font-family: "adelle", "serif";
   text-transform: uppercase;
   font-size: 2.94519em;
   line-height: 1.52792em; }
 
-/* line 39, ../sass/_type.scss */
+/* line 37, ../sass/_type.scss */
 h2 {
   color: #222222;
-  font-family: "Bevan", cursive;
+  font-family: "adelle", "serif";
   font-size: 2.61794em;
   line-height: 1.14594em; }
 
-/* line 46, ../sass/_type.scss */
+/* line 44, ../sass/_type.scss */
 h3 {
   color: #222222;
-  font-family: "Bevan", cursive;
+  font-family: "adelle", "serif";
   font-size: 1.82025em;
   line-height: 1.64813em; }
 
-/* line 53, ../sass/_type.scss */
+/* line 51, ../sass/_type.scss */
 h4 {
   color: #222222;
-  font-family: "Bevan", cursive;
+  font-family: "adelle", "serif";
   font-size: 1.618em;
   line-height: 1.85414em; }
 
-/* line 60, ../sass/_type.scss */
+/* line 58, ../sass/_type.scss */
 h5 {
   color: #222222;
-  font-family: "open sans", sans-serif;
+  font-family: "brandon-grotesque", "sans-serif";
   font-size: 1.125em;
   line-height: 1.33333em;
   margin-bottom: 1.5em; }
