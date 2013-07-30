@@ -115,7 +115,7 @@ ul {
 /* dark black */
 /* line 11, ../sass/_type.scss */
 body {
-  font-family: "brandon-grotesque", "sans-serif";
+  font-family: "brandon-grotesque", sans-serif;
   color: #444444; }
   /* line 61, ../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/typography/_vertical_rhythm.scss */
   body * html {
@@ -132,12 +132,12 @@ body {
 /* line 24, ../sass/_type.scss */
 p {
   color: #444444;
-  font-family: "brandon-grotesque", "sans-serif"; }
+  font-family: "brandon-grotesque", sans-serif; }
 
 /* line 29, ../sass/_type.scss */
 h1 {
   color: #222222;
-  font-family: "adelle", "serif";
+  font-family: "adelle", serif;
   text-transform: uppercase;
   font-size: 2.94519em;
   line-height: 1.52792em; }
@@ -145,28 +145,28 @@ h1 {
 /* line 37, ../sass/_type.scss */
 h2 {
   color: #222222;
-  font-family: "adelle", "serif";
+  font-family: "adelle", serif;
   font-size: 2.61794em;
   line-height: 1.14594em; }
 
 /* line 44, ../sass/_type.scss */
 h3 {
   color: #222222;
-  font-family: "adelle", "serif";
+  font-family: "adelle", serif;
   font-size: 1.82025em;
   line-height: 1.64813em; }
 
 /* line 51, ../sass/_type.scss */
 h4 {
   color: #222222;
-  font-family: "adelle", "serif";
+  font-family: "adelle", serif;
   font-size: 1.618em;
   line-height: 1.85414em; }
 
 /* line 58, ../sass/_type.scss */
 h5 {
   color: #222222;
-  font-family: "brandon-grotesque", "sans-serif";
+  font-family: "brandon-grotesque", sans-serif;
   font-size: 1.125em;
   line-height: 1.33333em;
   margin-bottom: 1.5em; }
