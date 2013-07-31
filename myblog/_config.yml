@@ -1,5 +1,0 @@
-name: The Follow Through
-description: The blog for the nonprofit
-url: http://danielpollitt.github.io/The-Follow-Through/myblog
-paginate: 10
-permalink: /:categories/:title
