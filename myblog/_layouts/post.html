@@ -2,12 +2,14 @@
 layout: default
 ---
 
-<h2>{{ page.title }}</h2>
+<h4>{{ page.title }}</h4>
+<section>
 <p class="meta">{{ page.date | date_to_string }}</p>
+	
+		{{ content }}
 
-<div class="post">
-{{ content }}
-</div>
+</section>
+
 
 
 
