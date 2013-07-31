@@ -224,7 +224,7 @@ h5 {
 
 /* line 1, ../sass/_header.scss */
 .header {
-  background: url(http://localhost:4000/images/binding_dark_@2X.png);
+  background-color: black;
   /* 320px */ }
   @media (max-width: 20em) {
     /* line 1, ../sass/_header.scss */
