@@ -113,64 +113,61 @@ ul {
 
 /* light black */
 /* dark black */
-/* line 12, ../sass/_type.scss */
-afas
+/* -------------- Begin CSS --------------- */
+/* line 13, ../sass/_type.scss */
 body {
   font-family: "brandon-grotesque", sans-serif;
   color: #444444; }
   /* line 61, ../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/typography/_vertical_rhythm.scss */
-  afas
   body * html {
     font-size: 100%; }
   /* line 64, ../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/typography/_vertical_rhythm.scss */
-  afas
   body html {
     font-size: 16px;
     line-height: 1.5em; }
-  /* line 17, ../sass/_type.scss */
-  afas
+  /* line 18, ../sass/_type.scss */
   body a {
     text-decoration: none;
     color: inherit; }
 
-/* line 25, ../sass/_type.scss */
+/* line 26, ../sass/_type.scss */
 p {
   color: #444444;
   font-family: "brandon-grotesque", sans-serif; }
 
-/* line 30, ../sass/_type.scss */
+/* line 31, ../sass/_type.scss */
 h1 {
   color: #222222;
-  font-family: "adelle";
+  font-family: "adelle" serif;
   text-transform: uppercase;
   font-size: 2.94519em;
   line-height: 1.52792em; }
 
-/* line 38, ../sass/_type.scss */
+/* line 39, ../sass/_type.scss */
 h2 {
   color: #222222;
-  font-family: "adelle";
+  font-family: "adelle" serif;
   font-size: 2.61794em;
   line-height: 1.14594em; }
 
-/* line 45, ../sass/_type.scss */
+/* line 46, ../sass/_type.scss */
 h3 {
   color: #222222;
-  font-family: "adelle";
+  font-family: "adelle" serif;
   font-size: 1.82025em;
   line-height: 1.64813em; }
 
-/* line 52, ../sass/_type.scss */
+/* line 53, ../sass/_type.scss */
 h4 {
   color: #222222;
-  font-family: "atrament-web";
+  font-family: "atrament-web" sans-serif;
   font-size: 1.618em;
   line-height: 1.85414em; }
 
-/* line 59, ../sass/_type.scss */
+/* line 60, ../sass/_type.scss */
 h5 {
   color: #222222;
-  font-family: "atrament-web";
+  font-family: "brandon-grotesque", sans-serif;
   font-size: 1.125em;
   line-height: 1.33333em;
   margin-bottom: 1.5em; }
