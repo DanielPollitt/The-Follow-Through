@@ -1,2 +1,5 @@
 _site
 .DS_Store
+sass
+codekit-config.json
+config.rb
