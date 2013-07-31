@@ -7,7 +7,7 @@ categories: core
 
 <b>The Road so Far</b>
 
-This has been a long and arduous process for me with several more steps ahead. The genesis of the idea for this service was easy; it came suddenly and was intuitive. 
+This has been a long and arduous process for me with several more steps ahead. The genesis of the idea for this service was easy; it came suddenly and was intuitive.
 
 Building the roadmap for launch took a little more time and effort but was undemanding. The more difficult part lies in refining core strategy and messaging along with hitting the road (e.g. pavement, meetings, telephone, internet) and spreading it to potential champions. 
 
