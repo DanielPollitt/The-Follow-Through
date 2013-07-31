@@ -113,7 +113,7 @@ ul {
 
 /* light black */
 /* dark black */
-/* line 11, ../sass/_type.scss */
+/* line 12, ../sass/_type.scss */
 afas
 body {
   font-family: "brandon-grotesque", sans-serif;
@@ -127,18 +127,18 @@ body {
   body html {
     font-size: 16px;
     line-height: 1.5em; }
-  /* line 16, ../sass/_type.scss */
+  /* line 17, ../sass/_type.scss */
   afas
   body a {
     text-decoration: none;
     color: inherit; }
 
-/* line 24, ../sass/_type.scss */
+/* line 25, ../sass/_type.scss */
 p {
   color: #444444;
   font-family: "brandon-grotesque", sans-serif; }
 
-/* line 29, ../sass/_type.scss */
+/* line 30, ../sass/_type.scss */
 h1 {
   color: #222222;
   font-family: "adelle", serif;
@@ -146,31 +146,31 @@ h1 {
   font-size: 2.94519em;
   line-height: 1.52792em; }
 
-/* line 37, ../sass/_type.scss */
+/* line 38, ../sass/_type.scss */
 h2 {
   color: #222222;
   font-family: "adelle", serif;
   font-size: 2.61794em;
   line-height: 1.14594em; }
 
-/* line 44, ../sass/_type.scss */
+/* line 45, ../sass/_type.scss */
 h3 {
   color: #222222;
   font-family: "adelle", serif;
   font-size: 1.82025em;
   line-height: 1.64813em; }
 
-/* line 51, ../sass/_type.scss */
+/* line 52, ../sass/_type.scss */
 h4 {
   color: #222222;
-  font-family: "adelle", serif;
+  font-family: "atrament-web";
   font-size: 1.618em;
   line-height: 1.85414em; }
 
-/* line 58, ../sass/_type.scss */
+/* line 59, ../sass/_type.scss */
 h5 {
   color: #222222;
-  font-family: "brandon-grotesque", sans-serif;
+  font-family: "atrament-web";
   font-size: 1.125em;
   line-height: 1.33333em;
   margin-bottom: 1.5em; }
