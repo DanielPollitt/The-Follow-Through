@@ -3,3 +3,4 @@ _site
 sass
 codekit-config.json
 config.rb
+.sass-cache
