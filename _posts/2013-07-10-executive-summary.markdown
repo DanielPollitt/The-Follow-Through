@@ -4,6 +4,7 @@ title: "The Follow Through: An Executive Summary"
 date: 2013-07-10 
 categories: core 
 ---
+
 **The Follow Through: Enriching Athletes Lives Through Awareness**
 
 Introduction  
@@ -20,8 +21,7 @@ What is in a Name?
 > Follow Through: 
   >> 1. The act or an instance of following through.
   >> 2. Sports The concluding part of a stroke, 
-     after a ball or other object has been hit or released.
-
+     after a ball or other object has been hit or released.  
 
 I chose the name “The Follow Through” because...  
 
