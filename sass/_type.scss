@@ -23,10 +23,17 @@ body {
 
 }
 
-	p {
-		color: $default-color;
-		font-family: $default-font;
-	}
+p {
+	color: $default-color;
+	font-family: $default-font;
+	
+}
+
+p + p {
+  	text-indent: 1.5em;
+  	margin-top: 0 
+  	
+  }
 
 h1 {
 	color: $title-color; 
