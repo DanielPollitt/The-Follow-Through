@@ -10,6 +10,7 @@ Introduction
 
 The Follow Through (TFH) is a 501(c)(3) nonprofit organization that physically, mentally, and emotionally caters to amateur and professional athletes, preparing them for the rigors of athletic occupation and serving the individual and/or family in need of guidance at any stage of their career.  
 
+
 What We Do
 
 TFH provides, including, but not limited to: (a) Raising awareness for healthier minds and emotions in sports while destigmatizing seeking improvement of social, emotional, and psychological well being; (b) connecting psychologists and life improvement specialists with professional and amateur athletes in need of counsel in their personal lives; (c) enriching athletes lifestyles through relationships with life skill advisors.
@@ -20,6 +21,7 @@ What is in a Name?
   >> 1. The act or an instance of following through.
   >> 2. Sports The concluding part of a stroke, 
      after a ball or other object has been hit or released.
+
 
 I chose the name “The Follow Through” because...  
 
