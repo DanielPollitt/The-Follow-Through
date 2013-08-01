@@ -115,6 +115,10 @@ ul {
 p {
   padding-bottom: 1em; }
 
+/* line 23, ../sass/_basics.scss */
+blockquote {
+  padding-left: 1em; }
+
 /* light black */
 /* dark black */
 /* -------------- Begin CSS --------------- */
