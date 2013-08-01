@@ -282,9 +282,6 @@ h5 {
     margin-bottom: 0.75em; }
 
 /* line 32, ../sass/_content.scss */
-.post p {
-  padding-bottom: 1em; }
-/* line 37, ../sass/_content.scss */
 .post blockquote {
   background: white;
   padding-left: 1em; }
