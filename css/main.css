@@ -286,6 +286,7 @@ h5 {
   padding-bottom: 1em; }
 /* line 37, ../sass/_content.scss */
 .post blockquote {
+  background: #f9f9f9;
   padding-left: 1em; }
 
 /* line 1, ../sass/_footer.scss */
