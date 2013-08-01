@@ -111,14 +111,6 @@ html, body {
 ul {
   list-style-type: none; }
 
-/* line 19, ../sass/_basics.scss */
-p {
-  padding-bottom: 1em; }
-
-/* line 23, ../sass/_basics.scss */
-blockquote {
-  padding-left: 1em; }
-
 /* light black */
 /* dark black */
 /* -------------- Begin CSS --------------- */
@@ -288,6 +280,13 @@ h5 {
   .home li {
     margin-top: 0.75em;
     margin-bottom: 0.75em; }
+
+/* line 32, ../sass/_content.scss */
+.post p {
+  padding-bottom: 1em; }
+/* line 37, ../sass/_content.scss */
+.post blockquote {
+  padding-left: 1em; }
 
 /* line 1, ../sass/_footer.scss */
 .footer {
