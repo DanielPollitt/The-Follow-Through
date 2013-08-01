@@ -111,6 +111,10 @@ html, body {
 ul {
   list-style-type: none; }
 
+/* line 19, ../sass/_basics.scss */
+p {
+  padding-bottom: 1em; }
+
 /* light black */
 /* dark black */
 /* -------------- Begin CSS --------------- */
