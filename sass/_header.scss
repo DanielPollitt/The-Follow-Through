@@ -1,0 +1,21 @@
+.header {
+		background-color: black;
+
+	@include breakpoint(smartphone) { 
+	 	display: block;
+
+	}
+
+}
+
+.title {
+	color: white;
+	text-align: center;
+	@include breakpoint(smartphone) { 
+	 	display: block;
+	 	@include adjust-font-size-to(29.124px);
+	
+	}
+
+}
+
