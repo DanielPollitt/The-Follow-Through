@@ -135,12 +135,7 @@ p {
   color: #444444;
   font-family: "brandon-grotesque", sans-serif; }
 
-/* line 32, ../sass/_type.scss */
-p + p {
-  text-indent: 1.5em;
-  margin-top: 0; }
-
-/* line 38, ../sass/_type.scss */
+/* line 33, ../sass/_type.scss */
 h1 {
   color: #222222;
   font-family: "adelle" serif;
@@ -148,28 +143,28 @@ h1 {
   font-size: 2.94519em;
   line-height: 1.52792em; }
 
-/* line 46, ../sass/_type.scss */
+/* line 41, ../sass/_type.scss */
 h2 {
   color: #222222;
   font-family: "adelle" serif;
   font-size: 2.61794em;
   line-height: 1.14594em; }
 
-/* line 53, ../sass/_type.scss */
+/* line 48, ../sass/_type.scss */
 h3 {
   color: #222222;
   font-family: "adelle" serif;
   font-size: 1.82025em;
   line-height: 1.64813em; }
 
-/* line 60, ../sass/_type.scss */
+/* line 55, ../sass/_type.scss */
 h4 {
   color: #222222;
   font-family: "atrament-web" sans-serif;
   font-size: 1.618em;
   line-height: 1.85414em; }
 
-/* line 67, ../sass/_type.scss */
+/* line 62, ../sass/_type.scss */
 h5 {
   color: #222222;
   font-family: "brandon-grotesque", sans-serif;
