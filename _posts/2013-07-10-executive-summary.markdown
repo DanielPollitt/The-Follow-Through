@@ -65,7 +65,6 @@ Social cultural is the domain in which TFH will be active.This means that it wil
 
 <br>**Needshare**<br> 
 Calculating organizational beneficiaries—those who benefit from the services provided by a nonprofit—is very important. It is obvious that an organization needs to know who their customers are, but few nonprofits develop metrics in order to determine the efficacy of their existence. Needshare fills this hole in organizational management (Whitman, Vision and Anatomy: Tools for Diagnosing and Rating Organizational Well-being, 2011).
-
 TFH’s needshare should be targeted yet broad. That is because there are many sports and countless athletes. It should categorically be broad, encompassing the most popular sports yet also be succinct enough to serve as an effective metric.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There are several ways to accomplish this. One is to have two categories—professional and amateur. Then count the number of athletes who have benefited from TFH. Another strategy is to determine the number of athletes in each sport—amateur and professional—and then count the beneficiaries against those numbers. Counting the number of popular sports in the U.S. and then determining the beneficiaries in each of those sports could work too.     
