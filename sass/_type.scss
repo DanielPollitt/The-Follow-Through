@@ -23,6 +23,7 @@ body {
 
 }
 
+<<<<<<< HEAD
 p {
 	color: $default-color;
 	font-family: $default-font;
@@ -34,6 +35,12 @@ p + p {
   	margin-top: 0; 
   	
   }
+=======
+	p {
+		color: $default-color;
+		font-family: $default-font;
+	}
+>>>>>>> parent of 0e7e1a4... Paragraph and Welcome
 
 h1 {
 	color: $title-color; 
