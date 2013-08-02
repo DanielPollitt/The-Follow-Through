@@ -2,12 +2,14 @@
 layout: default
 title: The Follow Through
 ---
-
-<div class="home">
+<div class="welcome-message">
+	<p> Welcome to the official home of <em>The Follow Through</em>, a sports nonprofit dedicated to raising awareness for healthier minds, emotions, and lives for amateur and professional athletes. Below, you'll find the latest news and information on our work.</p>
+</div>
+<br><div class="home">
   <h3 class="content-section-title">The Latest</h3>
   <ul class="hp-posts">
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
-</div>
+</div></br>
