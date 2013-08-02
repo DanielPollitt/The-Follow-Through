@@ -1,326 +1,57 @@
-/**
- * html5doctor.com Reset Stylesheet v1.6.1 (http://html5doctor.com/html-5-reset-stylesheet/)
- * Richard Clark (http://richclarkdesign.com)
- * http://cssreset.com
- */
-/* line 17, ../sass/_html5reset.scss */
-html, body, div, span, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-abbr, address, cite, code,
-del, dfn, em, img, ins, kbd, q, samp,
-small, strong, sub, sup, var,
-b, i,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section, summary,
-time, mark, audio, video {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  outline: 0;
-  font-size: 100%;
-  vertical-align: baseline;
-  background: transparent; }
+/*
+Syntax error: Invalid CSS after "}": expected selector or at-rule, was "<<<<<<< HEAD"
+        on line 26 of /Users/Dan/The-Follow-Through/sass/_type.scss
+        from line 5 of /Users/Dan/The-Follow-Through/sass/main.scss
 
-/* line 27, ../sass/_html5reset.scss */
-article, aside, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section {
-  display: block; }
-
-/* line 30, ../sass/_html5reset.scss */
-nav ul {
-  list-style: none; }
-
-/* line 33, ../sass/_html5reset.scss */
-blockquote, q {
-  quotes: none; }
-
-/* line 37, ../sass/_html5reset.scss */
-blockquote:before, blockquote:after,
-q:before, q:after {
-  content: '';
-  content: none; }
-
-/* line 41, ../sass/_html5reset.scss */
-a {
-  margin: 0;
-  padding: 0;
-  font-size: 100%;
-  text-decoration: none;
-  vertical-align: baseline;
-  background: transparent; }
-
-/* change colours to suit your needs */
-/* line 50, ../sass/_html5reset.scss */
-ins {
-  background-color: #ff9;
-  color: #000;
-  text-decoration: none; }
-
-/* change colours to suit your needs */
-/* line 56, ../sass/_html5reset.scss */
-mark {
-  background-color: #ff9;
-  color: #000;
-  font-style: italic;
-  font-weight: bold; }
-
-/* line 62, ../sass/_html5reset.scss */
-del {
-  text-decoration: line-through; }
-
-/* line 65, ../sass/_html5reset.scss */
-abbr[title], dfn[title] {
-  border-bottom: 1px dotted;
-  cursor: help; }
-
-/* line 69, ../sass/_html5reset.scss */
-table {
-  border-collapse: collapse;
-  border-spacing: 0; }
-
-/* change border colour to suit your needs */
-/* line 74, ../sass/_html5reset.scss */
-hr {
-  display: block;
-  height: 1px;
-  border: 0;
-  border-top: 1px solid #cccccc;
-  margin: 1em 0;
-  padding: 0; }
-
-/* line 82, ../sass/_html5reset.scss */
-input, select {
-  vertical-align: middle; }
-
-/* apply a natural box layout model to all elements */
-/* line 2, ../sass/_basics.scss */
-* {
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box; }
-
-/* line 9, ../sass/_basics.scss */
-html, body {
-  background: url(http://localhost:4000/images/white_wall_hash_@2X.png);
-  height: 100%; }
-
-/* line 15, ../sass/_basics.scss */
-ul {
-  list-style-type: none; }
-
-/* light black */
-/* dark black */
-/* -------------- Begin CSS --------------- */
-/* line 13, ../sass/_type.scss */
-body {
-  font-family: "brandon-grotesque", sans-serif;
-  color: #444444; }
-  /* line 61, ../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/typography/_vertical_rhythm.scss */
-  body * html {
-    font-size: 100%; }
-  /* line 64, ../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/typography/_vertical_rhythm.scss */
-  body html {
-    font-size: 16px;
-    line-height: 1.5em; }
-  /* line 18, ../sass/_type.scss */
-  body a {
-    text-decoration: none;
-    color: inherit; }
-
-/* line 26, ../sass/_type.scss */
-p {
-  color: #444444;
-  font-family: "brandon-grotesque", sans-serif; }
-
-/* line 31, ../sass/_type.scss */
-h1 {
-  color: #222222;
-  font-family: "adelle" serif;
-  text-transform: uppercase;
-  font-size: 2.94519em;
-  line-height: 1.52792em; }
-
-/* line 39, ../sass/_type.scss */
-h2 {
-  color: #222222;
-  font-family: "adelle" serif;
-  font-size: 2.61794em;
-  line-height: 1.14594em; }
-
-/* line 46, ../sass/_type.scss */
-h3 {
-  color: #222222;
-  font-family: "adelle" serif;
-  font-size: 1.82025em;
-  line-height: 1.64813em; }
-
-/* line 53, ../sass/_type.scss */
-h4 {
-  color: #222222;
-  font-family: "atrament-web" sans-serif;
-  font-size: 1.618em;
-  line-height: 1.85414em; }
-
-/* line 60, ../sass/_type.scss */
-h5 {
-  color: #222222;
-  font-family: "brandon-grotesque", sans-serif;
-  font-size: 1.125em;
-  line-height: 1.33333em;
-  margin-bottom: 1.5em; }
-
-/* line 1, ../sass/_structure.scss */
-.footer {
-  position: relative;
-  bottom: 0;
-  right: 0;
-  left: 0;
-  /* 320px */ }
-  @media (max-width: 20em) {
-    /* line 1, ../sass/_structure.scss */
-    .footer {
-      width: 20em; } }
-
-/* line 13, ../sass/_structure.scss */
-.header {
-  /* 320px */ }
-  @media (max-width: 20em) {
-    /* line 13, ../sass/_structure.scss */
-    .header {
-      width: 20em; } }
-
-/* line 21, ../sass/_structure.scss */
-.main {
-  /* 320px */ }
-  @media (max-width: 20em) {
-    /* line 21, ../sass/_structure.scss */
-    .main {
-      width: 18em;
-      margin: 0 auto;
-      margin-bottom: -0.5em; } }
-
-/* line 31, ../sass/_structure.scss */
-.nav {
-  /* 320px */ }
-  @media (max-width: 20em) {
-    /* line 31, ../sass/_structure.scss */
-    .nav {
-      width: 20em;
-      margin-top: 1.5em;
-      margin-bottom: 1.5em; } }
-
-/* line 41, ../sass/_structure.scss */
-.entire-page {
-  min-height: 100%;
-  position: relative;
-  /* 320px */ }
-  @media (max-width: 20em) {
-    /* line 41, ../sass/_structure.scss */
-    .entire-page {
-      width: 20em; } }
-
-/* line 1, ../sass/_header.scss */
-.header {
-  background-color: black;
-  /* 320px */ }
-  @media (max-width: 20em) {
-    /* line 1, ../sass/_header.scss */
-    .header {
-      display: block; } }
-
-/* line 11, ../sass/_header.scss */
-.title {
-  color: white;
-  text-align: center;
-  /* 320px */ }
-  @media (max-width: 20em) {
-    /* line 11, ../sass/_header.scss */
-    .title {
-      display: block;
-      font-size: 1.82025em;
-      line-height: 1.64813em; } }
-
-/* line 1, ../sass/_nav.scss */
-.nav-title {
-  margin-bottom: 0 !important;
-  text-align: center;
-  text-decoration: underline; }
-
-/* line 1, ../sass/_content.scss */
-.main {
-  /* 320px */ }
-  @media (max-width: 20em) {
-    /* line 1, ../sass/_content.scss */
-    .main {
-      display: block; } }
-
-/* line 8, ../sass/_content.scss */
-.content-section-title {
-  /* 320px */ }
-  @media (max-width: 20em) {
-    /* line 8, ../sass/_content.scss */
-    .content-section-title {
-      font-size: 1.618em;
-      line-height: 1.85414em;
-      text-align: center; } }
-
-/* line 16, ../sass/_content.scss */
-.home {
-  /* 320px */ }
-  @media (max-width: 20em) {
-    /* line 16, ../sass/_content.scss */
-    .home {
-      background-color: white;
-      padding: 1em;
-      width: 18em; } }
-  /* line 23, ../sass/_content.scss */
-  .home li {
-    margin-top: 0.75em;
-    margin-bottom: 0.75em; }
-
-/* line 32, ../sass/_content.scss */
-.post blockquote {
-  background: white;
-  padding-left: 1em; }
-
-/* line 1, ../sass/_footer.scss */
-.footer {
-  background: url(http://localhost:4000/images/tweed_@2X.png);
-  /* 320px */ }
-  /* line 3, ../sass/_footer.scss */
-  .footer p {
-    color: white; }
-  @media (max-width: 20em) {
-    /* line 1, ../sass/_footer.scss */
-    .footer {
-      display: block; } }
-  /* line 12, ../sass/_footer.scss */
-  .footer .contact {
-    padding: 1em; }
-  /* line 17, ../sass/_footer.scss */
-  .footer p {
-    font-style: none; }
-
-/* line 22, ../sass/_footer.scss */
-.entire-page {
-  min-height: 100%;
-  /* equal to footer height */
-  margin-bottom: 8.875em; }
-
-/* line 27, ../sass/_footer.scss */
-.wrapper:after {
-  content: "";
-  display: block; }
-
-/* line 31, ../sass/_footer.scss */
-.footer, .wrapper:after {
-  /* .push must be the same height as footer */
-  height: 8.875em; }
-
-/* line 36, ../sass/_footer.scss */
-.post {
-  min-height: 100%;
-  position: relative; }
+Backtrace:
+/Users/Dan/The-Follow-Through/sass/_type.scss:26
+/Users/Dan/The-Follow-Through/sass/main.scss:5
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../../scss/lib/sass/../sass/scss/parser.rb:1148:in `expected'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../../scss/lib/sass/../sass/scss/parser.rb:1084:in `expected'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../../scss/lib/sass/../sass/scss/parser.rb:28:in `parse'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../../scss/lib/sass/../sass/engine.rb:342:in `_to_tree'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../../scss/lib/sass/../sass/engine.rb:274:in `to_tree'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../../scss/lib/sass/../sass/tree/visitors/perform.rb:225:in `visit_import'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../../scss/lib/sass/../sass/tree/visitors/base.rb:37:in `send'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../../scss/lib/sass/../sass/tree/visitors/base.rb:37:in `visit'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../../scss/lib/sass/../sass/tree/visitors/perform.rb:100:in `visit'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../../scss/lib/sass/../sass/tree/visitors/base.rb:53:in `visit_children'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../../scss/lib/sass/../sass/tree/visitors/base.rb:53:in `map'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../../scss/lib/sass/../sass/tree/visitors/base.rb:53:in `visit_children'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../../scss/lib/sass/../sass/tree/visitors/perform.rb:109:in `visit_children'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../../scss/lib/sass/../sass/tree/visitors/perform.rb:121:in `with_environment'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../../scss/lib/sass/../sass/tree/visitors/perform.rb:108:in `visit_children'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../../scss/lib/sass/../sass/tree/visitors/base.rb:37:in `visit'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../../scss/lib/sass/../sass/tree/visitors/perform.rb:128:in `visit_root'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../../scss/lib/sass/../sass/tree/visitors/base.rb:37:in `send'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../../scss/lib/sass/../sass/tree/visitors/base.rb:37:in `visit'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../../scss/lib/sass/../sass/tree/visitors/perform.rb:100:in `visit'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../../scss/lib/sass/../sass/tree/visitors/perform.rb:7:in `send'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../../scss/lib/sass/../sass/tree/visitors/perform.rb:7:in `visit'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../../scss/lib/sass/../sass/tree/root_node.rb:20:in `render'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../../scss/lib/sass/../sass/engine.rb:315:in `_render'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../../scss/lib/sass/../sass/engine.rb:262:in `render'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../lib/compass/compiler.rb:140:in `compile'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../lib/compass/compiler.rb:126:in `timed'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../lib/compass/compiler.rb:139:in `compile'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../lib/compass/logger.rb:45:in `red'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../lib/compass/compiler.rb:138:in `compile'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../lib/compass/compiler.rb:118:in `compile_if_required'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../lib/compass/compiler.rb:103:in `run'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../lib/compass/compiler.rb:101:in `each'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../lib/compass/compiler.rb:101:in `run'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../lib/compass/compiler.rb:126:in `timed'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../lib/compass/compiler.rb:100:in `run'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../lib/compass/commands/update_project.rb:45:in `perform'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../lib/compass/commands/base.rb:18:in `execute'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../lib/compass/commands/project_base.rb:19:in `execute'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../lib/compass/exec/sub_command_ui.rb:43:in `perform!'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/../lib/compass/exec/sub_command_ui.rb:15:in `run!'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/compass:43
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/compass:57:in `call'
+/Applications/CodeKit.app/Contents/Resources/engines/compass/bin/compass:57
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Syntax error: Invalid CSS after \"}\": expected selector or at-rule, was \"<<<<<<< HEAD\"\A         on line 26 of /Users/Dan/The-Follow-Through/sass/_type.scss\A         from line 5 of /Users/Dan/The-Follow-Through/sass/main.scss"; }
