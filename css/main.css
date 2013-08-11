@@ -135,7 +135,12 @@ p {
   color: #444444;
   font-family: "brandon-grotesque", sans-serif; }
 
-/* line 33, ../sass/_type.scss */
+/* line 32, ../sass/_type.scss */
+blockquote {
+  background: white;
+  padding-left: 1em; }
+
+/* line 39, ../sass/_type.scss */
 h1 {
   color: #222222;
   font-family: "adelle" serif;
@@ -143,28 +148,28 @@ h1 {
   font-size: 2.94519em;
   line-height: 1.52792em; }
 
-/* line 41, ../sass/_type.scss */
+/* line 47, ../sass/_type.scss */
 h2 {
   color: #222222;
   font-family: "adelle" serif;
   font-size: 2.61794em;
   line-height: 1.14594em; }
 
-/* line 48, ../sass/_type.scss */
+/* line 54, ../sass/_type.scss */
 h3 {
   color: #222222;
   font-family: "adelle" serif;
   font-size: 1.82025em;
   line-height: 1.64813em; }
 
-/* line 55, ../sass/_type.scss */
+/* line 61, ../sass/_type.scss */
 h4 {
   color: #222222;
   font-family: "atrament-web" sans-serif;
   font-size: 1.618em;
   line-height: 1.85414em; }
 
-/* line 62, ../sass/_type.scss */
+/* line 68, ../sass/_type.scss */
 h5 {
   color: #222222;
   font-family: "brandon-grotesque", sans-serif;
@@ -280,11 +285,6 @@ h5 {
   .home li {
     margin-top: 0.75em;
     margin-bottom: 0.75em; }
-
-/* line 32, ../sass/_content.scss */
-.post blockquote {
-  background: white;
-  padding-left: 1em; }
 
 /* line 1, ../sass/_footer.scss */
 .footer {
