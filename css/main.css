@@ -286,6 +286,10 @@ h5 {
     margin-top: 0.75em;
     margin-bottom: 0.75em; }
 
+/* line 30, ../sass/_content.scss */
+.post {
+  background-color: white; }
+
 /* line 1, ../sass/_footer.scss */
 .footer {
   background: url(http://localhost:4000/images/tweed_@2X.png);
