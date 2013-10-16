@@ -104,7 +104,7 @@ input, select {
 
 /* line 9, ../sass/_basics.scss */
 html, body {
-  background: url(http://localhost:4000/images/white_wall_hash_@2X.png);
+  background-color: #c9bfb7;
   height: 100%; }
 
 /* line 15, ../sass/_basics.scss */
@@ -178,153 +178,228 @@ h5 {
   margin-bottom: 1.5em; }
 
 /* line 1, ../sass/_structure.scss */
+.entire-page {
+  min-height: 100%;
+  position: relative;
+  /* 320px */
+  /* 480px */
+  /* 768px */
+  /* 1024px */ }
+  @media all and (min-width: 0em) and (max-width: 20em) {
+    /* line 1, ../sass/_structure.scss */
+    .entire-page {
+      width: 20em; } }
+  @media all and (min-width: 21em) and (max-width: 30em) {
+    /* line 1, ../sass/_structure.scss */
+    .entire-page {
+      width: 30em; } }
+  @media all and (min-width: 31em) and (max-width: 48em) {
+    /* line 1, ../sass/_structure.scss */
+    .entire-page {
+      width: 48em; } }
+  @media all and (min-width: 49em) and (max-width: 64em) {
+    /* line 1, ../sass/_structure.scss */
+    .entire-page {
+      width: 64em; } }
+
+/* line 27, ../sass/_structure.scss */
+.header {
+  /* 320px */
+  /* 480px */
+  /* 768px */
+  /* 1024px */ }
+  @media all and (min-width: 0em) and (max-width: 20em) {
+    /* line 27, ../sass/_structure.scss */
+    .header {
+      width: 20em; } }
+  @media all and (min-width: 21em) and (max-width: 30em) {
+    /* line 27, ../sass/_structure.scss */
+    .header {
+      width: 30em; } }
+  @media all and (min-width: 31em) and (max-width: 48em) {
+    /* line 27, ../sass/_structure.scss */
+    .header {
+      width: 48em; } }
+  @media all and (min-width: 49em) and (max-width: 64em) {
+    /* line 27, ../sass/_structure.scss */
+    .header {
+      width: 64em; } }
+
+/* line 50, ../sass/_structure.scss */
 .footer {
   position: relative;
   bottom: 0;
   right: 0;
   left: 0;
-  /* 320px */ }
-  @media (max-width: 20em) {
-    /* line 1, ../sass/_structure.scss */
+  /* 320px */
+  /* 768px */
+  /* 1024px */ }
+  @media all and (min-width: 0em) and (max-width: 20em) {
+    /* line 50, ../sass/_structure.scss */
     .footer {
       width: 20em; } }
+  @media all and (min-width: 31em) and (max-width: 48em) {
+    /* line 50, ../sass/_structure.scss */
+    .footer {
+      width: 48em; } }
+  @media all and (min-width: 49em) and (max-width: 64em) {
+    /* line 50, ../sass/_structure.scss */
+    .footer {
+      width: 64em; } }
 
-/* line 13, ../sass/_structure.scss */
-.header {
-  /* 320px */ }
-  @media (max-width: 20em) {
-    /* line 13, ../sass/_structure.scss */
-    .header {
-      width: 20em; } }
-
-/* line 21, ../sass/_structure.scss */
+/* line 75, ../sass/_structure.scss */
 .main {
-  /* 320px */ }
-  @media (max-width: 20em) {
-    /* line 21, ../sass/_structure.scss */
+  /* 320px */
+  /* 768px */
+  /* 1024px */ }
+  @media all and (min-width: 0em) and (max-width: 20em) {
+    /* line 75, ../sass/_structure.scss */
     .main {
       width: 18em;
       margin: 0 auto;
       margin-bottom: -0.5em; } }
+  @media all and (min-width: 31em) and (max-width: 48em) {
+    /* line 75, ../sass/_structure.scss */
+    .main {
+      width: 46em;
+      margin: 0 auto;
+      margin-bottom: -0.5em; } }
+  @media all and (min-width: 49em) and (max-width: 64em) {
+    /* line 75, ../sass/_structure.scss */
+    .main {
+      width: 64em;
+      margin: 0 auto;
+      margin-bottom: -0.5em; } }
 
-/* line 31, ../sass/_structure.scss */
+/* line 99, ../sass/_structure.scss */
 .nav {
-  /* 320px */ }
-  @media (max-width: 20em) {
-    /* line 31, ../sass/_structure.scss */
+  margin: 0 auto;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+  /* 320px */
+  /* 768px */ }
+  @media all and (min-width: 0em) and (max-width: 20em) {
+    /* line 99, ../sass/_structure.scss */
     .nav {
-      width: 20em;
-      margin-top: 1.5em;
-      margin-bottom: 1.5em; } }
-
-/* line 41, ../sass/_structure.scss */
-.entire-page {
-  min-height: 100%;
-  position: relative;
-  /* 320px */ }
-  @media (max-width: 20em) {
-    /* line 41, ../sass/_structure.scss */
-    .entire-page {
-      width: 20em; } }
+      display: block;
+      width: 18em; } }
+  @media all and (min-width: 31em) and (max-width: 48em) {
+    /* line 99, ../sass/_structure.scss */
+    .nav {
+      display: block;
+      text-align: center;
+      /* change to inline-block to account for change in overall width */
+      width: 46em; } }
 
 /* line 1, ../sass/_header.scss */
 .header {
   background-color: black;
+  text-align: center;
   /* 320px */ }
-  @media (max-width: 20em) {
+  @media all and (min-width: 0em) and (max-width: 20em) {
     /* line 1, ../sass/_header.scss */
     .header {
       display: block; } }
 
-/* line 11, ../sass/_header.scss */
+/* line 12, ../sass/_header.scss */
 .title {
   color: white;
-  text-align: center;
   /* 320px */ }
-  @media (max-width: 20em) {
-    /* line 11, ../sass/_header.scss */
+  @media all and (min-width: 0em) and (max-width: 20em) {
+    /* line 12, ../sass/_header.scss */
     .title {
       display: block;
       font-size: 1.82025em;
       line-height: 1.64813em; } }
 
-/* line 1, ../sass/_nav.scss */
-.nav-title {
+/* line 2, ../sass/_nav.scss */
+.nav-title-1,
+.nav-title-2 {
   margin-bottom: 0 !important;
   text-align: center;
-  text-decoration: underline; }
+  text-decoration: underline;
+  display: inline;
+  padding: .5em; }
 
 /* line 1, ../sass/_content.scss */
-.main {
-  /* 320px */ }
-  @media (max-width: 20em) {
-    /* line 1, ../sass/_content.scss */
-    .main {
-      display: block; } }
-
-/* line 8, ../sass/_content.scss */
 .content-section-title {
+  text-align: center;
   /* 320px */ }
-  @media (max-width: 20em) {
-    /* line 8, ../sass/_content.scss */
+  @media all and (min-width: 0em) and (max-width: 20em) {
+    /* line 1, ../sass/_content.scss */
     .content-section-title {
       font-size: 1.618em;
-      line-height: 1.85414em;
-      text-align: center; } }
+      line-height: 1.85414em; } }
 
-/* line 16, ../sass/_content.scss */
-.home {
-  /* 320px */ }
-  @media (max-width: 20em) {
-    /* line 16, ../sass/_content.scss */
-    .home {
-      background-color: white;
-      padding: 1em;
+/* line 11, ../sass/_content.scss */
+.home,
+.welcome-message {
+  background-color: white;
+  display: block;
+  padding: 1em;
+  margin: 0 auto;
+  /* 320px */
+  /* 768px */ }
+  @media all and (min-width: 0em) and (max-width: 20em) {
+    /* line 11, ../sass/_content.scss */
+    .home,
+    .welcome-message {
       width: 18em; } }
-  /* line 23, ../sass/_content.scss */
-  .home li {
+  /* line 21, ../sass/_content.scss */
+  .home li,
+  .welcome-message li {
     margin-top: 0.75em;
     margin-bottom: 0.75em; }
+  @media all and (min-width: 31em) and (max-width: 48em) {
+    /* line 11, ../sass/_content.scss */
+    .home,
+    .welcome-message {
+      width: 30em; } }
 
-/* line 30, ../sass/_content.scss */
+/* line 33, ../sass/_content.scss */
+.hp-posts {
+  margin: 0 auto; }
+
+/* line 38, ../sass/_content.scss */
 .post {
   background-color: white; }
 
 /* line 1, ../sass/_footer.scss */
 .footer {
-  background: url(http://localhost:4000/images/tweed_@2X.png);
+  background-color: #574a55;
   /* 320px */ }
   /* line 3, ../sass/_footer.scss */
   .footer p {
     color: white; }
-  @media (max-width: 20em) {
+  @media all and (min-width: 0em) and (max-width: 20em) {
     /* line 1, ../sass/_footer.scss */
     .footer {
       display: block; } }
   /* line 12, ../sass/_footer.scss */
   .footer .contact {
-    padding: 1em; }
-  /* line 17, ../sass/_footer.scss */
+    padding: 1em;
+    margin: 0 auto; }
+  /* line 18, ../sass/_footer.scss */
   .footer p {
     font-style: none; }
 
-/* line 22, ../sass/_footer.scss */
+/* line 23, ../sass/_footer.scss */
 .entire-page {
   min-height: 100%;
   /* equal to footer height */
   margin-bottom: 8.875em; }
 
-/* line 27, ../sass/_footer.scss */
+/* line 28, ../sass/_footer.scss */
 .wrapper:after {
   content: "";
   display: block; }
 
-/* line 31, ../sass/_footer.scss */
+/* line 32, ../sass/_footer.scss */
 .footer, .wrapper:after {
   /* .push must be the same height as footer */
   height: 8.875em; }
 
-/* line 36, ../sass/_footer.scss */
+/* line 37, ../sass/_footer.scss */
 .post {
   min-height: 100%;
   position: relative; }
