@@ -5,7 +5,7 @@
  */
 /* line 17, ../sass/_html5reset.scss */
 html, body, div, span, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+h1, h2, h3, h4, h5, h6, blockquote, pre,
 abbr, address, cite, code,
 del, dfn, em, img, ins, kbd, q, samp,
 small, strong, sub, sup, var,
@@ -106,10 +106,6 @@ input, select {
 html, body {
   background-color: #c9bfb7;
   height: 100%; }
-
-/* line 15, ../sass/_basics.scss */
-ul {
-  list-style-type: none; }
 
 /* light black */
 /* dark black */
@@ -362,7 +358,8 @@ h5 {
 
 /* line 38, ../sass/_content.scss */
 .post {
-  background-color: white; }
+  background-color: white;
+  margin: 0 auto; }
 
 /* line 1, ../sass/_footer.scss */
 .footer {

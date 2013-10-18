@@ -4,75 +4,53 @@ title: "The Follow Through: An Executive Summary"
 date: 2013-07-10 
 categories: core 
 ---
+  
+<center>**The Follow Through: Enriching Athletes Lives Through Awareness**</center>   
 
-<center><br>**The Follow Through: Enriching Athletes Lives Through Awareness**<br></center>
+**Background & Problem**  
+From an early age athletes exist in a different environment than the rest of society. The expectation to devote the majority of one’s 
+youth to sports is enormous. Too many young athletes are raised in circumstances of poverty and family strife. Those lucky few who make the leap from amateur to professional leagues can earn a lucrative contract and fame. These accomplishments often come with a heavy price; working in an ultra-competitive environment filled with extreme pressures from family, friends, coaches, agents, and the media. All of this contributes to less than ideal atmosphere for positive social, mental, and emotional growth.  
+The daily news teems with the pressures of the sports industry engulfing the athlete; drunk driving charges , spousal abuse , steroids and performance enhancing drugs , bankruptcy and the “club” lifestyle , and at its most tragic, murder  and/or suicide . “The Follow Through” aims to change the nature and culture of the professional sports industry and positively influence athletes lives.
 
-<center><br>**Introduction**<br></center>  
+**Solution Proposal**  
+The name “The Follow Through” was chosen because it signifies that life is more than sports for athletes; while they are working to make good on the promise of their talents, they must follow through in their personal life too. The must become well-rounded human beings with healthy control over their emotions and develop well rounded minds. For the purpose of brevity, we use TFT as the abbreviation for “The Follow Through” in the rest of this summary.
 
-The Follow Through (TFH) is a 501(c)(3) nonprofit organization that physically, mentally, and emotionally caters to amateur and professional athletes, preparing them for the rigors of athletic occupation and serving the individual and/or family in need of guidance at any stage of their career.  
+**What Do We Want to Accomplish?**  
+“The Follow Through” is dedicated to raise awareness of resources that enable athletes to enhance the social, emotional, and financial quality of their personal and professional lives. In the “macho” culture of sports, it is imperative to de-stigmatize the informal rule that athletes are “weak” for seeking help to resolve quality of mind and life problems.  We want to do this through utilizing transformative, generational change for individuals and the professional sports leagues. “The Follow Through” will enact long-term change,  primarily through educating members of society, especially emerging and professional athletes.  
+The fundamental strategy for “The Follow Through” is to destigmitize the use of professional and personal services for athletes to reach out to in their time of need. This will be achieved through educating the public and athletes with a critical and valuable message that it is not only normal to seek help in a time of crisis, but is essential for personal and professional well-being.  
+Transformative change takes a long time to develop and reach full potential, because the goal is to alter the informal rules of how a society functions. I am confident this initiative  will enact effective, meaningful change in the short-term as well  and once the message begins to take hold athletes will realize it is in their best interest to get help.
 
+**Funding**  
+An organization will have a difficult time launching and sustaining itself without funds. The Follow Through  will raise money via fundraising efforts and service fees. In the beginning, we will seek startup capital through: (a) angel donors; (b) government and private grants; (c) a crowd sourcing campaign. Our preferred strategy is angel donors and a major reason why we will target the NFL first with our services. The NFL is a wealthy association, with many periphery branches that generate high profit. All it takes is one current or former stakeholder or group of stakeholders (coaches, NFL Players Association, commissioner, etc.) to write a check and lend gravitas to this issue. Having a contingency in case this does not happen is important. Therefore The Follow Through will also pursue grants and crowd sourcing while pitching angel donors. Along with these strategies, we are also developing a plan to collect service fees for connecting athletes with trusted professionals.
 
-<br>**What We Do**<br>
-TFH provides, including, but not limited to: (a) Raising awareness for healthier minds and emotions in sports while destigmatizing seeking improvement of social, emotional, and psychological well being; (b) connecting psychologists and life improvement specialists with professional and amateur athletes in need of counsel in their personal lives; (c) enriching athletes lifestyles through relationships with life skill advisors.
+**First Steps**  
+The 30,000 foot view of this benefit is exciting to talk about, but the road to transformative change is paved with little steps. In order to move forward with this important service, legal and marketing logistics need to be well thought out and executed properly. 
+These include, but are not limited to:
+* Incorporating “The Follow Through” as a 501(c)3 not-for-profit organization in the District of Columbia.
+* Securing a domain name, an internet hosting plan for the aforementioned name, and quickly but tastefully designing an online home.
+* Networking with as many potential champions for change and professionals with similar interests as possible, in order to develop relationships that will result in partnerships with us in our mission for change.
 
-<br>**What is in a Name?**<br>
+**Champions for Change**  
+Continuing to build on these first steps, we need to cultivate professional relationships with qualified:
 
->Follow Through: 
->> 1. The act or an instance of following through.
->> 2. Sports The concluding part of a stroke, 
->> after a ball or other object has been hit or released.  
+* Psychologists
+* Psychiatrists 
+* Life skill/financial advisors
+* Religious organizations 
 
-<br>I chose the name “The Follow Through” because...<br>  
+Concurrently, building a network of professional athletic champions for our mission will ensure that our profile will be raised and respected as a voice in the sports arena. We are seeking active and retired notable NFL players, coaches, and other stakeholders whose football credentials  hold considerable weight to carry our message through the media and across the country. 
 
-<br>**Life Guidance, Counseling & the Athlete**<br>  
+**The Message**  
+Our message is simple: “There are underutilized resources available to athletes that will enhance the success of their personal and professional lives.” This will start with a focused and dynamic push to professional NFL players. Amatuer (NCAA) and youth leagues will follow once we’ve built a solid foundation for our message. Our efforts include but are not limited to:  
+- Building awareness of these helpful resources:  
+    * Psychology and psychiatry  
+    * Life skill coaches  
+    * Independent, respected financial advisors  
+    * Religious organizations  
+* Breaking down the “macho culture” of silence denial amongst players.  
 
-From early age athletes live in a different environment than the rest of society.Those who go on to earn monetary dividends and fame work in an ultra competitive environment filled with extreme pressures (1) from family, friends, coaches, agents, and the media. Too many of them are raised in circumstances of poverty and family strife. Guidance for the amateur and professional is best served early in life but it is never too late for the athlete—-even after retirement—-to enjoy a fruitful life through therapy and life coaching.
+**The Service**  
+As our narrative of available, positive, resources takes shape and gains traction among players, media, and the general public, we will build relationships with qualified professionals in psychology, psychiatry, and life/financial advisors. These individuals and organizations will be vetted  through a rigorous process that prizes experience, quality, and confidentiality. These professionals will then be on call through us to athletes who will be assured  they will receive assistance from a person they can trust to help them while keeping their name and issues confidential through the process and afterwards.  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;News stories are teeming with the pressures of the sports industry engulfing the athlete; drunken driving charges (McIntyre, 2012), spousal abuse (Associated Press, 2012), steroids and performance enhancing drugs (Brown, 2012), the “club” lifestyle (Palank, 2012), bankruptcy (Wiles, 2012), and at its most tragic, murder and/or suicide (Gantt, 2012; Jones, 2013). It is time to change the nature of the industry, positively influencing athletic culture by raising awareness for guidance and creating a service to build healthier lives.
-
-<br>**My Vision**<br> 
-TFH is dedicated to realizing a sports industry that is more pragmatic and functional, for the personal and professional lives of the athlete.
-
-<center><br>**TFH and Social Values**<br></center> 
-TFH is built on three main social values and two
-secondary values that are informed by the primary (Whitman, Chart of Social Values, 2011).
-
-<br>**Primary Values**<br> 
->**Social Change.** I want to change the paradigm to improve
-athlete’s lives. It currently rests with the informal rule of resisting help. TFH I want to shift our perspective so we can live in a society in which athletes use the guidance tools available to them.
-
-><br>**Influence.** TFH’s aim is to influence the norms and taboos of the sports industry through the idea that it is not only necessary, but it is “okay” for athletes to request mental professional help, gain access to sports psychologists to improve occupational performance, and acquire life skills through direction from professionals.<br>
-
-><br>**Social Order.** “Order” and “stability” in the athlete’s life will come through social change and influencing the culture of the sports industry. This value has a trickle down effect into the secondary values.<br>
-
-<br>**Secondary Values**<br> 
->**Diversity.** Diversity in sports is enhanced when the idea of professional help and advice to the athlete is tolerated instead of shunned.
-
-><br>**Family.** Life for the athlete is enriched through the previous values creating a more stable family (or single life) environment.<br>
-
-<center><br>**A Different Industry**<br></center> 
-**Norms and Taboos** 
-The sports industry consists of athletes who seek to gain any competitive edge to enrich their professional skills, yet so few utilize a valuable tool: psychological and lifestyle support. Within the industry, the idea of using lifestyle advisors, psychiatrists, and psychologists is generally not accepted (Rhoden, 2012).
-
-<br>**Transformative Change**<br> 
-Transformative change is long-term change, enacted primarily through educating members of society (Whitman, Tools for Diagnosing and Rating Organizational Well-being, 2011); 
-
-<br>**Vision and Anatomy**<br>
-This is the fundamental strategy of TFH. Transformative change can take a long time to develop and reach its potential, because the goal is to alter the informal rules of society. While this may be the case for TFH, I am confident this organization can enact positive and impactful change in the short term as well. TFH will attain this shift through education, raising awareness, and offering brokering services to connect the athlete with mental health professionals and life advisors. This would be done in a discreet way where an athlete in need, or someone close to the athlete would inquire about his or her options for counsel, guidance, and treatment. TFH would then respond to see how it can help and if it is a good fit, connecting the individual with a professional according to his or her need. Pro bono services will be offered to those who cannot pay the regular service fees. These fees will fund free services and education campaign.
-
-<br>**Social Cultural**<br> 
-Social cultural is the domain in which TFH will be active.This means that it will work to change the culture and more specifically, the social norms of the sports industry. TFH achieve this by exercising transformative change.
-
-<br>**Needshare**<br> 
-Calculating organizational beneficiaries—those who benefit from the services provided by a nonprofit—is very important. It is obvious that an organization needs to know who their customers are, but few nonprofits develop metrics in order to determine the efficacy of their existence. Needshare fills this hole in organizational management (Whitman, Vision and Anatomy: Tools for Diagnosing and Rating Organizational Well-being, 2011).
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TFH’s needshare should be targeted yet broad. That is because there are many sports and countless athletes. It should categorically be broad, encompassing the most popular sports yet also be succinct enough to serve as an effective metric.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There are several ways to accomplish this. One is to have two categories—professional and amateur. Then count the number of athletes who have benefited from TFH. Another strategy is to determine the number of athletes in each sport—amateur and professional—and then count the beneficiaries against those numbers. Counting the number of popular sports in the U.S. and then determining the beneficiaries in each of those sports could work too.     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For TFH, I have determined that the latter satisfies organizational need at this current time. I will start with American football, broken down into two subsections: National Collegiate Athletic Association (NCAA) and the National Football League (NFL). There are several reasons for focusing on a single sport. Football is the most visible sport in the U.S; it is the most watched on television and in person. The NFL generates the highest amount of revenue of U.S. professional sports. It is well documented that troubled athletes who play football generate a high share of headlines. TFH would then count the number of athletes in effected through use of services.At that point TFH may have an effective view of organizational efficacy.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;However, the leader of a nonprofit must question his/her strategy in order to determine the most effective and relevant path moving forward. At TFH, this will mean changing its definition of needshare over time.
-
-<br>**Moving Forward with The Follow Through**<br> 
-For The Follow Through, this strategy for start-up is not just an academic exercise or a pipe dream. I sincerely believe that there is a need for the type of awareness and services that could be provided by an organization like the one described. Sports have given and will continue to create meaningful value in our lives. In order to ensure it stays this way for future generations, the debate over mental health and lifestyle guidance in athletes lives needs to be corrected to a more healthy position. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I imagine a world in which an athlete with internal and external pressures can learn life skills and deal with adversity in more constructive ways than they currently do.
+**Conclusion**  
+Given the excessive amount of avoidable personal tragedies in football, “The Follow Through” will provide a vital benefit. To some degree the emotional turmoil encountered by many athletes and  the solution to these endemic issues are being discussed on a sporadic basis. What is needed is a sustained and meaningful dialogue that positively alters the modern athletes’ perception of seeking professional and qualified solutions to personal crises. The Follow Through aims to provide the foundation for this type of change and beyond that, follow through with the necessary resources to sustain long lasting change.
