@@ -7,7 +7,7 @@ categories: core
 
 <center>**The Follow Through: Enriching Athletes Lives Through Awareness**</center>   
 
-**Background & Problem**  
+**Background & Problem**  s
 From an early age athletes exist in a different environment than the rest of society. The expectation to devote the majority of one’s 
 youth to sports is enormous. Too many young athletes are raised in circumstances of poverty and family strife. Those lucky few who make the leap from amateur to professional leagues can earn a lucrative contract and fame. These accomplishments often come with a heavy price; working in an ultra-competitive environment filled with extreme pressures from family, friends, coaches, agents, and the media. All of this contributes to less than ideal atmosphere for positive social, mental, and emotional growth.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The daily news teems with the pressures of the sports industry engulfing the athlete; drunk driving charges , spousal abuse , steroids and performance enhancing drugs , bankruptcy and the “club” lifestyle , and at its most tragic, murder  and/or suicide . “The Follow Through” aims to change the nature and culture of the professional sports industry and positively influence athletes lives.
