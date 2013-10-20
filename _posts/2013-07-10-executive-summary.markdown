@@ -10,22 +10,29 @@ categories: core
 **Background & Problem**  
 From an early age athletes exist in a different environment than the rest of society. The expectation to devote the majority of one’s 
 youth to sports is enormous. Too many young athletes are raised in circumstances of poverty and family strife. Those lucky few who make the leap from amateur to professional leagues can earn a lucrative contract and fame. These accomplishments often come with a heavy price; working in an ultra-competitive environment filled with extreme pressures from family, friends, coaches, agents, and the media. All of this contributes to less than ideal atmosphere for positive social, mental, and emotional growth.  
-The daily news teems with the pressures of the sports industry engulfing the athlete; drunk driving charges , spousal abuse , steroids and performance enhancing drugs , bankruptcy and the “club” lifestyle , and at its most tragic, murder  and/or suicide . “The Follow Through” aims to change the nature and culture of the professional sports industry and positively influence athletes lives.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The daily news teems with the pressures of the sports industry engulfing the athlete; drunk driving charges , spousal abuse , steroids and performance enhancing drugs , bankruptcy and the “club” lifestyle , and at its most tragic, murder  and/or suicide . “The Follow Through” aims to change the nature and culture of the professional sports industry and positively influence athletes lives.
 
 **Solution Proposal**  
 The name “The Follow Through” was chosen because it signifies that life is more than sports for athletes; while they are working to make good on the promise of their talents, they must follow through in their personal life too. The must become well-rounded human beings with healthy control over their emotions and develop well rounded minds. For the purpose of brevity, we use TFT as the abbreviation for “The Follow Through” in the rest of this summary.
 
 **What Do We Want to Accomplish?**  
 “The Follow Through” is dedicated to raise awareness of resources that enable athletes to enhance the social, emotional, and financial quality of their personal and professional lives. In the “macho” culture of sports, it is imperative to de-stigmatize the informal rule that athletes are “weak” for seeking help to resolve quality of mind and life problems.  We want to do this through utilizing transformative, generational change for individuals and the professional sports leagues. “The Follow Through” will enact long-term change,  primarily through educating members of society, especially emerging and professional athletes.  
-The fundamental strategy for “The Follow Through” is to destigmitize the use of professional and personal services for athletes to reach out to in their time of need. This will be achieved through educating the public and athletes with a critical and valuable message that it is not only normal to seek help in a time of crisis, but is essential for personal and professional well-being.  
-Transformative change takes a long time to develop and reach full potential, because the goal is to alter the informal rules of how a society functions. I am confident this initiative  will enact effective, meaningful change in the short-term as well  and once the message begins to take hold athletes will realize it is in their best interest to get help.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The fundamental strategy for “The Follow Through” is to destigmitize the use of professional and personal services for athletes to reach out to in their time of need. This will be achieved through educating the public and athletes with a critical and valuable message that it is not only normal to seek help in a time of crisis, but is essential for personal and professional well-being.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Transformative change takes a long time to develop and reach full potential, because the goal is to alter the informal rules of how a society functions. I am confident this initiative  will enact effective, meaningful change in the short-term as well  and once the message begins to take hold athletes will realize it is in their best interest to get help.
 
 **Funding**  
-An organization will have a difficult time launching and sustaining itself without funds. The Follow Through  will raise money via fundraising efforts and service fees. In the beginning, we will seek startup capital through: (a) angel donors; (b) government and private grants; (c) a crowd sourcing campaign. Our preferred strategy is angel donors and a major reason why we will target the NFL first with our services. The NFL is a wealthy association, with many periphery branches that generate high profit. All it takes is one current or former stakeholder or group of stakeholders (coaches, NFL Players Association, commissioner, etc.) to write a check and lend gravitas to this issue. Having a contingency in case this does not happen is important. Therefore The Follow Through will also pursue grants and crowd sourcing while pitching angel donors. Along with these strategies, we are also developing a plan to collect service fees for connecting athletes with trusted professionals.
+An organization will have a difficult time launching and sustaining itself without funds. The Follow Through  will raise money via fund raising efforts and service fees. In the beginning, we will seek startup capital through:   
+
+* Angel donors.
+* Government and private grants.
+* Crowd sourcing campaign. 
+
+Our preferred strategy is angel donors and a major reason why we will target the NFL first with our services. The NFL is a wealthy association, with many periphery branches that generate high profit. All it takes is one current or former stakeholder or group of stakeholders (coaches, NFL Players Association, commissioner, etc.) to write a check and lend gravitas to this issue. Having a contingency in case this does not happen is important. Therefore The Follow Through will also pursue grants and crowd sourcing while pitching angel donors. Along with these strategies, we are also developing a plan to collect service fees for connecting athletes with trusted professionals.
 
 **First Steps**  
 The 30,000 foot view of this benefit is exciting to talk about, but the road to transformative change is paved with little steps. In order to move forward with this important service, legal and marketing logistics need to be well thought out and executed properly. 
 These include, but are not limited to:
+
 * Incorporating “The Follow Through” as a 501(c)3 not-for-profit organization in the District of Columbia.
 * Securing a domain name, an internet hosting plan for the aforementioned name, and quickly but tastefully designing an online home.
 * Networking with as many potential champions for change and professionals with similar interests as possible, in order to develop relationships that will result in partnerships with us in our mission for change.
@@ -43,11 +50,11 @@ Concurrently, building a network of professional athletic champions for our miss
 **The Message**  
 Our message is simple: “There are underutilized resources available to athletes that will enhance the success of their personal and professional lives.” This will start with a focused and dynamic push to professional NFL players. Amatuer (NCAA) and youth leagues will follow once we’ve built a solid foundation for our message. Our efforts include but are not limited to:  
 
-- Building awareness of these helpful resources:  
-* Psychology and psychiatry  
-* Life skill coaches  
-* Independent, respected financial advisors  
-* Religious organizations  
+* Building awareness of these helpful resources:  
+    * Psychology and psychiatry  
+    * Life skill coaches  
+    * Independent, respected financial advisors  
+    * Religious organizations  
 * Breaking down the “macho culture” of silence denial amongst players.  
 
 **The Service**  
