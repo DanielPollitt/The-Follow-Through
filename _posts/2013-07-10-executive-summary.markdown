@@ -4,7 +4,7 @@ title: "The Follow Through: An Executive Summary"
 date: 2013-07-10 
 categories: core 
 ---
-**The Follow Through: Enriching Athletes Lives Through Awareness**  
+**<center>The Follow Through: Enriching Athletes Lives Through Awareness</center>**  
 
 **Background & Problem**  
 From an early age athletes exist in a different environment than the rest of society. The expectation to devote the majority of one’s 
@@ -50,10 +50,12 @@ Concurrently, building a network of professional athletic champions for our miss
 Our message is simple: “There are underutilized resources available to athletes that will enhance the success of their personal and professional lives.” This will start with a focused and dynamic push to professional NFL players. Amatuer (NCAA) and youth leagues will follow once we’ve built a solid foundation for our message. Our efforts include but are not limited to:  
 
 * Building awareness of these helpful resources:  
+  
     * Psychology and psychiatry  
-    * Life skill coaches  
-    * Independent, respected financial advisors  
-    * Religious organizations  
+    * Life skill coaches    
+    * Independent, respected financial advisors    
+    * Religious organizations    
+
 * Breaking down the “macho culture” of silence denial amongst players.  
 
 **The Service**  
