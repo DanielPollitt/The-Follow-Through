@@ -4,7 +4,11 @@ title: "The Follow Through: An Executive Summary"
 date: 2013-07-10 
 categories: core 
 ---
+<<<<<<< HEAD
 **<center>The Follow Through: Enriching Athletes Lives Through Awareness</center>**  
+=======
+**<center>The Follow Through: Enriching Athletes Lives Through Awareness</center>**
+>>>>>>> d8291d0c0b2827d81921cf9278f643dd8d15f7d7
 
 **Background & Problem**  
 From an early age athletes exist in a different environment than the rest of society. The expectation to devote the majority of one’s 
