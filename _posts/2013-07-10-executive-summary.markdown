@@ -47,10 +47,10 @@ This will start with a focused and dynamic push to professional NFL players. Ama
 * Breaking down the “macho culture” of silence denial amongst players.  
 
 * Building awareness of these helpful resources:  
-    *Psychology and psychiatry  
-    *Life skill coaches    
-    *Independent, respected financial advisors    
-    *Religious organizations    
+ * Psychology and psychiatry    
+ * Life skill coaches  
+ * Independent, respected financial advisors      
+ * Religious organizations      
 
 **The Service**  
 As our narrative of available positive resources takes shape and gains traction among players, media, and the general public, we will be building relationships with qualified professionals in psychology, psychiatry, and life/financial advisors. These individuals and organizations will be vetted through a rigorous process that prizes experience, quality, and confidentiality. These professionals will then be on call through us for athletes where they can be assured they will receive assistance from a person they can trust to help them while keeping their name and issues confidential through the process and afterwards.
