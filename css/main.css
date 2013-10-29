@@ -12,6 +12,9 @@ html, body {
     html, body {
       background-color: white; } }
 
+blockquote {
+  border-left: 0.5em solid #E6E6FA; }
+
 /* light black */
 /* dark black */
 /* -------------- Begin CSS --------------- */
