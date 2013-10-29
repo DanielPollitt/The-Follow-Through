@@ -45,8 +45,7 @@ Our message is simple:
 
 This will start with a focused and dynamic push to professional NFL players. Amateur (NCAA) and youth leagues will follow once we’ve built a solid foundation for our message. Our efforts include but are not limited to:  
 
-* Breaking down the “macho culture” of silence denial amongst players.
-* Building awareness of these helpful resources:
+* Breaking down the “macho culture” of silence denial amongst players.* Building awareness of these helpful resources:
   * Psychology and psychiatry   
   * Life skill coaches
   * Independent, respected financial advisors
