@@ -13,7 +13,7 @@ From an early age athletes exist in a different environment than the rest of soc
 **<center>Solution Proposal</center>**
 The name “The Follow Through” was chosen because it signifies that life is more than sports for athletes; while they are working to make good on the promise of their talents, they must follow through in their personal life too. They must become well-rounded human beings with healthy control over their thoughts and emotions.
 
-**What Do We Want to Accomplish?** 
+**What Do We Want to Accomplish?**   
 “The Follow Through” is dedicated to raise awareness of resources that enable athletes to enhance the social, emotional, and financial quality of their personal and professional lives. In the “macho” culture of sports, it is imperative to de-stigmatize the informal rule that athletes are “weak” for seeking help to resolve quality of mind and life problems.  We want to do this through utilizing transformative, generational change for individuals, professional sports leagues, and society itself.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The fundamental strategy for “The Follow Through” is to provide educational resources to individuals about who to reach out to in a time of need.This education will take the form of spreading a critical and valuable message to athletes and society that it is not only natural to seek help in time of crisis, but that it is essential for an individual persons well-being. Transformative change takes a long time to develop and reach full potential, because the goal is to alter the informal rules of how a society functions. I am confident this initiative will generate positive change in the short-term as athletes will begin to realize that help is available and it is normal to seek it.
 
@@ -39,7 +39,7 @@ Continuing to build on these first steps we need to cultivate professional relat
 Concurrently, building a network of professional athletic champions for our mission will ensure that our profile will be raised and be respected as a voice in the sports arena. We are seeking active and retired notable NFL players, coaches, and other stakeholders whose football credentials hold considerable weight to carry our message through the media and across the country. 
 
 **The Message**  
-Our message is simple: <strong>“There are underutilized resources available to athletes that will enhance the success of their personal and professional lives.”</strong> This will start with a focused and dynamic push to professional NFL players. Amateur (NCAA) and youth leagues will follow once we’ve built a solid foundation for our message. Our efforts include but are not limited to:  
+Our message is simple: > <strong>“There are underutilized resources available to athletes that will enhance the success of their personal and professional lives.”</strong> This will start with a focused and dynamic push to professional NFL players. Amateur (NCAA) and youth leagues will follow once we’ve built a solid foundation for our message. Our efforts include but are not limited to:  
 
 * Breaking down the “macho culture” of silence denial amongst players.  
 
