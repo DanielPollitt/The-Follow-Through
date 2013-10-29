@@ -10,7 +10,7 @@ categories: core
 From an early age athletes exist in a different environment than the rest of society. The expectation to devote the majority of one’s youth to sports is enormous. Too many of young athletes are raised in circumstances of poverty and family strife. Those lucky few who make the leap from amateur to the professional leagues can earn a lucrative contract and fame. These accomplishments often come with a heavy price; working in an ultra-competitive environment filled with extreme pressures from family, friends, coaches, agents, and the media. All of this contributes to less than an ideal atmosphere for positive professional and personal growth.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The daily news teems with the pressures of the sports industry engulfing the athlete; drunk driving charges , spousal abuse , steroids and performance enhancing drugs , bankruptcy and the “club” lifestyle , and at its most tragic, murder  and/or suicide . “The Follow Through” aims to change the nature and culture of the professional sports industry and positively influence athlete’s lives.
 
-<center>**Solution Proposal**</center>  
+**<center>Solution Proposal</center>**    
 The name “The Follow Through” was chosen because it signifies that life is more than sports for athletes; while they are working to make good on the promise of their talents, they must follow through in their personal life too. They must become well-rounded human beings with healthy control over their thoughts and emotions.
 
 **What Do We Want to Accomplish?**  
