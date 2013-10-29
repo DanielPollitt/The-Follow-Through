@@ -39,7 +39,10 @@ Continuing to build on these first steps we need to cultivate professional relat
 Concurrently, building a network of professional athletic champions for our mission will ensure that our profile will be raised and be respected as a voice in the sports arena. We are seeking active and retired notable NFL players, coaches, and other stakeholders whose football credentials hold considerable weight to carry our message through the media and across the country. 
 
 **The Message**  
-Our message is simple: > <strong>“There are underutilized resources available to athletes that will enhance the success of their personal and professional lives.”</strong> This will start with a focused and dynamic push to professional NFL players. Amateur (NCAA) and youth leagues will follow once we’ve built a solid foundation for our message. Our efforts include but are not limited to:  
+Our message is simple: 
+><strong>“There are underutilized resources available to athletes that will enhance the success of their personal and professional lives.”</strong> 
+
+This will start with a focused and dynamic push to professional NFL players. Amateur (NCAA) and youth leagues will follow once we’ve built a solid foundation for our message. Our efforts include but are not limited to:  
 
 * Breaking down the “macho culture” of silence denial amongst players.  
 
