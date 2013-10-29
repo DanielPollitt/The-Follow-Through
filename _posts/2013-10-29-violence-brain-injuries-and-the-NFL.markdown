@@ -8,16 +8,15 @@ categories: core
 **<center>The NFL: An Overview of the League and
 Why the King of Sports Must Evolve to Survive</center>**
 
-*With Critical Contributions From:  
-Kate McElligott, Charles Molnar, and Dee Ortiz*
+*<center>With Critical Contributions From:  
+Kate McElligott, Charles Molnar, and Dee Ortiz</center>*
 
 **<center>Background</center>**
 The National Football League (NFL) is the most popular  and valuable sports association in the U.S. earning more than $9 billion per year in profit . However, the league faces a significant threat to its hegemony: the level and visibility of violence in professional football is increasing. Consequences of this violence, such as concussions and traumatic brain injuries, have risen in the public consciousness in recent years . More and more professional players and the media criticize the culture of the game with some current and former players going as far as saying they won’t let their children play football. The league must rapidly and holistically mitigate this problem or face a very uncertain future filled with medical liability suits, a shortage of players, and even complete financial ruin.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In this analysis we provide a fundamental look at the league’s violence problem, propose a simple but encompassing solution, and provide metrics to determine its efficacy.
 
 Acting on Violence Now
->Junior played for 20 years. That's five concussions a game, easily. How many in his career then? That's over 1,500 concussions. I know that's startling, but I know it's true. I had over 1,000 in my 15 years. I felt the effects of it.  
--- Gary Plummer, former NFL linebacker and teammate of deceased (suicide) former player Junior Seau (Klemko, 2012).
+>Junior played for 20 years. That's five concussions a game, easily. How many in his career then? That's over 1,500 concussions. I know that's startling, but I know it's true. I had over 1,000 in my 15 years. I felt the effects of it.  -- Gary Plummer, former NFL linebacker and teammate of deceased (suicide) former player Junior Seau (Klemko, 2012).
 
 There are several additional factors—short and long term—that are slowly eroding the reputation of the league. The 2012 debacle of replacement referees  and completing a new collective bargaining agreement between players and owners at the end of this decade to avoid lockout  are issues that can cripple the effectiveness of less stable organizations. The NFL has been able to overcome these obstacles while retaining their organizational strength. However, the League’s issue of brain injuries as a result of decades of ingrained reckless violence is no longer being ignored.  Weekly fines of current players, widely circulated damaging statements from League stakeholders, and a powerful recent documentary on lingering mental injuries after retirement all attest to the new reality of a society that is now paying close attention to this most serious of issues. Therefore, the most imposing threat to the NFL comes not from concussions alone, but how the league and its stakeholders adjust to this new reality and work together to resolve this growing crisis.
 
