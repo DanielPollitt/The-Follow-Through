@@ -22,6 +22,7 @@ The name “The Follow Through” was chosen because it signifies that life is m
 
 **First Steps**  
 The 30, 000-foot view of this benefit is exciting to talk about, but the road to transformative change is paved with little steps. In order to move forward with this important service, legal and marketing logistics need to be well thought out and executed properly.  
+
 These include, but are not limited to:
 
 * Incorporating “The Follow Through” as a 501(c) 3 not-for-profit organization in the District of Columbia.
