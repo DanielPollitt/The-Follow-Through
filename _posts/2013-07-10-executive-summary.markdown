@@ -47,7 +47,7 @@ This will start with a focused and dynamic push to professional NFL players. Ama
 
 * Breaking down the “macho culture” of silence denial amongst players.  
 
-* Building awareness of these helpful resources:  
+* Building awareness of these helpful resources:
   * Psychology and psychiatry   
   * Life skill coaches
   * Independent, respected financial advisors
