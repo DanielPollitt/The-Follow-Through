@@ -15,6 +15,10 @@ html, body {
 blockquote {
   border-left: 0.5em solid #E6E6FA; }
 
+img {
+  display: block;
+  margin: auto; }
+
 /* light black */
 /* dark black */
 /* -------------- Begin CSS --------------- */
