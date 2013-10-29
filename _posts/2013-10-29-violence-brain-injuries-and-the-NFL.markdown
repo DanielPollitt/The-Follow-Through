@@ -11,6 +11,8 @@ Why the King of Sports Must Evolve to Survive</center>**
 *<center>With Critical Contributions From:  
 Kate McElligott, Charles Molnar, and Dee Ortiz</center>*
 
+![NFL QB Illegal Hit](/2playerscrunchingQB.png "NFL QB Illegal Hit")
+
 **<center>Background</center>**
 The National Football League (NFL) is the most popular  and valuable sports association in the U.S. earning more than $9 billion per year in profit . However, the league faces a significant threat to its hegemony: the level and visibility of violence in professional football is increasing. Consequences of this violence, such as concussions and traumatic brain injuries, have risen in the public consciousness in recent years . More and more professional players and the media criticize the culture of the game with some current and former players going as far as saying they won’t let their children play football. The league must rapidly and holistically mitigate this problem or face a very uncertain future filled with medical liability suits, a shortage of players, and even complete financial ruin.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In this analysis we provide a fundamental look at the league’s violence problem, propose a simple but encompassing solution, and provide metrics to determine its efficacy.
